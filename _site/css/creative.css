@@ -190,7 +190,10 @@ header {
     color: grey;
     background-image: url(../img/MM23.jpg);
     background-position: center;
-    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 header .header-content {
