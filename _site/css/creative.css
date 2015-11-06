@@ -65,20 +65,6 @@ p {
 
 }
 
-.MMimage2 {
-    position: relative;
-    width: 100%;
-    min-height: auto;
-    text-align: center;
-    color: grey;
-    background-image: url(../img/MM23.jpg);
-    background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
 .bg-dark {
     color: #fff;
     background-color: #666699;
@@ -209,7 +195,6 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
-
 
 header .header-content {
     position: relative;
