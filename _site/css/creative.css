@@ -261,6 +261,9 @@ header .header-content .header-content-inner p {
 @media(min-width:992px) {
     .service-box {
         margin: 20px auto 0;
+        background-color: 66799;
+}
+
     }
 }
 
@@ -268,6 +271,10 @@ header .header-content .header-content-inner p {
     margin-bottom: 0;
 }
 
+.MMimage  {
+    background-color: 66799;
+}
+/*
 .portfolio-box {
     display: block;
     position: relative;
@@ -327,7 +334,7 @@ header .header-content .header-content-inner p {
         font-size: 22px;
     }
 }
-
+*/
 .call-to-action h2 {
     margin: 0 auto 20px;
 }
