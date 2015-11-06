@@ -1,9 +1,8 @@
 ---
 layout: default
-header-img: "MM23.jpg"
 ---
 <header>
-        <div class="MMimage">
+        <div class="header-content" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
 
             <div class="header-content-inner">
                 <h1>Landing Text</h1>
