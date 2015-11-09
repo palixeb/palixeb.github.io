@@ -21,9 +21,6 @@ hr {
     border-width: 3px;
 }
 
-hr.light {
-    border-color: #fff;
-}
 
 a {
     color: #6799DE;
@@ -50,6 +47,7 @@ p {
     margin-bottom: 20px;
     font-size: 16px;
     line-height: 1.5;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 .bg-primary {
@@ -91,12 +89,12 @@ aside {
     /*text-transform: uppercase;*/
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #6799DE;
+    color: black;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color:  #6799DE;
 }
 
 .navbar-default .nav > li>a,
@@ -182,7 +180,7 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
-    color: grey;
+    color: white;
     background-image: url(../img/MM23_resized.jpg);
     background-position: center;
     -webkit-background-size: cover;
@@ -354,9 +352,6 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
-
-/* Footer links */
-
 .footer-distributed{
     background-color: #292c2f;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
@@ -429,7 +424,7 @@ section#contact .text-danger {
 
 /* If you don't want the footer to be responsive, remove these media queries */
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
 
     .footer-distributed .footer-left,
     .footer-distributed .footer-right{
@@ -444,59 +439,10 @@ section#contact .text-danger {
     .footer-distributed .footer-left p.footer-links{
         line-height: 1.8;
     }
+
+
 }
 
-.btn-default {
-    border-color: #fff;
-    color: #222;
-    background-color: #fff;
-    -webkit-transition: all .35s;
-    -moz-transition: all .35s;
-    transition: all .35s;
-}
-
-.btn-default:hover,
-.btn-default:focus,
-.btn-default.focus,
-.btn-default:active,
-.btn-default.active,
-.open > .dropdown-toggle.btn-default {
-    border-color: #ededed;
-    color: white;
-    background-color: #6799DE;
-}
-
-.btn-default:active,
-.btn-default.active,
-.open > .dropdown-toggle.btn-default {
-    background-image: none;
-}
-
-.btn-default.disabled,
-.btn-default[disabled],
-fieldset[disabled] .btn-default,
-.btn-default.disabled:hover,
-.btn-default[disabled]:hover,
-fieldset[disabled] .btn-default:hover,
-.btn-default.disabled:focus,
-.btn-default[disabled]:focus,
-fieldset[disabled] .btn-default:focus,
-.btn-default.disabled.focus,
-.btn-default[disabled].focus,
-fieldset[disabled] .btn-default.focus,
-.btn-default.disabled:active,
-.btn-default[disabled]:active,
-fieldset[disabled] .btn-default:active,
-.btn-default.disabled.active,
-.btn-default[disabled].active,
-fieldset[disabled] .btn-default.active {
-    border-color: #fff;
-    background-color: #fff;
-}
-
-.btn-default .badge {
-    color: #fff;
-    background-color: #222;
 }
 
 .btn-primary {
@@ -525,6 +471,7 @@ fieldset[disabled] .btn-default.active {
     background-image: none;
 }
 
+
 .btn-primary.disabled,
 .btn-primary[disabled],
 fieldset[disabled] .btn-primary,
@@ -543,12 +490,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #666699;
-    background-color: #666699;
+    border-color: #6799DE;
+    background-color: #6799DE;
 }
 
 .btn-primary .badge {
-    color: #666699;
+    color: #6799DE;
     background-color: #fff;
 }
 
@@ -564,7 +511,7 @@ fieldset[disabled] .btn-primary.active {
     padding: 15px 30px;
     color: black;
     background: grey;
-
+}
 
 ::-moz-selection {
     text-shadow: none;

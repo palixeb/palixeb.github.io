@@ -54,6 +54,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">Manny Marx | &#x266B;</a>
             </div>
@@ -68,7 +69,10 @@
                         <a class="page-scroll" href="#services">Services</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">The Process</a>
+                        <a class="page-scroll" href="#process">Process</a>
+                    </li>
+                     <li>
+                        <a class="page-scroll" href="#carousel">Listen</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -102,7 +106,7 @@
                     <h2 class="section-heading">Nice to meet you!</h2>
                     <hr>
                     <p class="text-faded">This is what I can do</p>
-                    <a href="#" class="btn btn-default btn-xl">Listen</a>
+                    <a href="#carousel" class="btn btn-primary btn-xl page-scroll">Listen</a>
                 </div>
             </div>
         </div>
@@ -123,30 +127,32 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <a href="#about"><i class="fa fa-4x fa-music wow bounceIn text-primary"></i></a>
+                        <a href="#contact"><i class="fa fa-4x fa-music wow bounceIn text-primary"></i></a>
                         <h3>music</h3>
-                        <p class="text-muted">la la la.</p>
+                       <p class="p-font">la la la.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <a href="#about"><i class="fa fa-4x fa-volume-up wow bounceIn text-primary" data-wow-delay=".1s"></i></a>
+                        <a href="#contact"><i class="fa fa-4x fa-volume-up wow bounceIn text-primary" data-wow-delay=".1s"></i></a>
                         <h3>sound design</h3>
-                        <p class="text-muted">BOOM BAM BOP</p>
+                        <p class="p-font">BOOM BAM BOP</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <a href="#about"><i class="fa fa-4x fa-headphones wow bounceIn text-primary" data-wow-delay=".2s"></i></a>
+                        <a href="#contact"><i class="fa fa-4x fa-headphones wow bounceIn text-primary" data-wow-delay=".2s"></i></a>
                         <h3>collaboration</h3>
-                        <p class="text-muted">FUSION.</p>
+                        <p class="p-font">FUSION.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <a href="#about"><i class="fa fa-4x fa-gamepad wow bounceIn text-primary" data-wow-delay=".3s"></i></a>
+                        <a href="#contact"><i class="fa fa-4x fa-gamepad wow bounceIn text-primary" data-wow-delay=".3s"></i></a>
                         <h3>Long time gamer</h3>
-                        <p class="text-muted">Intellivisionから！</p>
+                        <p class="p-font">Intellevision</p>
+                    </div>
+                </div>
                     </div>
                 </div>
             </div>
@@ -158,15 +164,15 @@
             	<div class="row">
             		 <div class="col-lg-8 col-lg-offset-2 text-center">
                  		<h3>How the process all goes down</h3>
-                		<p>For our first meeting via a method of your choice (e.g. E-mail, Skype, G-Chat, face to face, etc.) we will discuss your project and the sounds you are looking for. If possible you will provide me with examples to aid me in creating the sounds you need. Soon after I will provide you with a demo of my work </br><strong>FREEEE</strong>. </p>
-                		<a href="palixeb.github.io/thankyou.html" class="btn btn-default btn-xl">Listen</a>
+                		<p>For our first meeting via a method of your choice (e.g. E-mail, Skype, G-Chat, face to face, etc.) we will discuss your project and the sounds you are looking for. If possible you will provide me with examples to aid me in creating the sounds you need. Soon after I will provide you with a demo of my work </br><strong>FOR FREEEE</strong>. </p>
+                		<a href="#" class="btn btn-primary btn-xl page-scroll">Read More</a>
 
                 	</div>	
         		</div>
        		</div>
     </section>
 
-<div class="bg-primary">
+<div class="bg-primary" id="carousel">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Carousel indicators -->
         <ol class="carousel-indicators">
@@ -204,6 +210,7 @@
 
 <section id="contact">
         <div class="container">
+            
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Me</h2>
@@ -215,17 +222,16 @@
             <div class="row">
                 <div class="col-lg-12">
                     <form action= "//formspree.io/mannymarx.music@gmail.com" name="sentMessage" id="contactForm" method="POST">
+                        <imput type="hidden" name="_next" value="http://palixeb.github.io/thankyou.html" />
                         <div class="row">
                             <div class="col-md-pull-9">
                                 <div class="form-group">
                                     <input type="text" class="form-control" placeholder="Name *" required data-validation-required-message="Please enter your name.">
-
-                                    <imput type="hidden" name="_next" value="http://palixeb.github.io/thankyou.html"/>
                                     <p class="help-block text-danger"></p>
                                 </div>
 
                                 <div class="form-group">
-                                    <input type="email" class="form-control" name="_replyto" placeholder="Email *" required data-validation-required-message="Please enter your email address.">
+                                    <input type="email" class="form-control" name="_replyto" placeholder="Email *" required data-validation-required-message="Please enter your email address." />
                                     <p class="help-block text-danger"></p>
                                     <input type="hidden" name="_subject" value="Email from client" />
                                 </div>
@@ -240,7 +246,8 @@
                             <div class="clearfix"></div>
                             <div class="col-lg-12 text-center">
                                 <div id="success"></div>
-                                <input type="submit" class="btn btn-default btn-xl"/>
+                                <input type="submit" class="btn btn-primary btn-xl page-scroll" />
+
                             </div>
                         </div>
                     </form>
@@ -282,23 +289,115 @@
       <div class="footer-left">
 
         <p class="footer-links">
-          <a href="#">Home</a>
+          <a href="#page-top">Home</a>
           ·
-          <a href="#">Blog</a>
+          <a href="#about">About</a>
           ·
-          <a href="#">Pricing</a>
+          <a href="#services">Services</a>
           ·
-          <a href="#">About</a>
-          ·
-          <a href="#">Faq</a>
-          ·
-          <a href="#">Contact</a>
+          <a href="#process">Process</a>
+          · 
+          <a href="#contact">Contact</a>
         </p>
 
-        <p>Company Name &copy; 2015</p>
+        <p>Manny Marx &copy; 2015</p>
       </div>
-  </div>
-    </footer>
+
+<style>
+.footer-distributed{
+    background-color: #292c2f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font: normal 16px sans-serif;
+    padding: 45px 50px;
+    margin-top: 80px;
+}
+
+.footer-distributed .footer-left p{
+    color:  white;
+    font-size: 14px;
+    margin: 0;
+}
+
+
+
+#footer{
+    background-image: url(../img/MM_footer.png);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#footer-wrapper {
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.footer-distributed p.footer-links{
+    font-size:18px;
+    font-weight: bold;
+    color:  #6799DE;
+    margin: 0 0 20px;
+    padding: 0;
+
+}
+
+.footer-distributed p.footer-links a{
+    display:inline-block;
+    line-height: 1.8;
+    text-decoration: none;
+    color:  inherit;
+}
+
+.footer-distributed .footer-right{
+    float: right;
+    margin-top: 6px;
+    max-width: 180px;
+}
+
+.footer-distributed .footer-right a{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-color:  #6799DE;
+    border-radius: 2px;
+
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+
+    margin-left: 3px;
+}
+
+/* If you don't want the footer to be responsive, remove these media queries */
+
+@media (max-width: 768px) {
+
+    .footer-distributed .footer-left,
+    .footer-distributed .footer-right{
+        text-align: center;
+    }
+
+    .footer-distributed .footer-right{
+        float: none;
+        margin: 0 auto 20px;
+    }
+
+    .footer-distributed .footer-left p.footer-links{
+        line-height: 1.8;
+    }
+
+
+}
+</style>
+
+
+</footer>
 
 
 
