@@ -245,6 +245,36 @@ header .header-content .header-content-inner p {
     }
 }
 
+/* --- thank you header page --- */
+
+.thankyoupage {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #FFFFFF;
+    background-image: url(../img/mmthankyou.png);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+
+html, body, .container-table {
+    height: 100%;
+}
+.container-table {
+    display: table;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
 
 
 .section-heading {
@@ -271,6 +301,10 @@ header .header-content .header-content-inner p {
 
 /* --- controls images?! ---*/
 .text-primary {
+    color: #6799DE;
+}
+
+.glyphcolor {
     color: #6799DE;
 }
 
