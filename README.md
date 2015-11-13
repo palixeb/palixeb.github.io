@@ -12,15 +12,15 @@ This is my first attempt at building / designing a website, it is a challenge I 
 
 ##Jekyll serve
 
-When running the Jekyll server instead of `jekyll serve` run `jekyll serve --watch --config _config.yml,_config-dev.yml` It's mainly to help with work flow because if you just run `jekyll serve` you will have to restart the server anytime you want to view a change on localhost:XXXX. However, if you make a change to the _config.yml file you will have to restart the server. 
+When running the Jekyll server instead of `jekyll serve` run `jekyll serve --watch --config _config.yml,_config-dev.yml` It's mainly to help with work flow because if you just run `jekyll serve` you will have to restart the server anytime you want to view a change on localhost:XXXX. However, despite the new functionality if you make a change to the _config.yml file you will have to restart the server. 
 
-###A big thanks to
+###Big Thanks 
 
-[mvaneijgen](https://github.com/mvaneijgen) for getting the header image to work and setting up the improved server functionality.
+[mvaneijgen](https://github.com/mvaneijgen). Thanks getting the header image to work and setting up the improved server functionality.
 
-Jeff C. for photography 
+Jeff C. for photography. 
 
-Paul M. for creating the logo
+Paul M. for creating the logo.
 
 
 ### License 
