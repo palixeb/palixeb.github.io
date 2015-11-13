@@ -101,6 +101,9 @@ aside {
     padding: 50px 0;
 }
 
+.line-spacing{
+    line-height: 40px
+}
 
 
 .no-padding {
