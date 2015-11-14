@@ -555,8 +555,8 @@ html, body, .container-table {
 
 .carousel{
     background: black;
-    margin-top: 100px;
-    height: 5px;
+    margin-top: 10px;
+    height: 100%;
     text-align: center;
 }
 .carousel .item {
