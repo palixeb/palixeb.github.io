@@ -463,6 +463,8 @@ blockquote h3 {
 
     margin-left: 3px;
 
+}
+
 @media (max-width: 768px) {
 
     .footer-distributed .footer-left,
@@ -477,6 +479,7 @@ blockquote h3 {
 
     .footer-distributed .footer-left p.footer-links{
         line-height: 1.8;
+
     }
 
 
