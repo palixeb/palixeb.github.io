@@ -463,6 +463,8 @@ blockquote h3 {
 
     margin-left: 3px;
 
+}
+
 @media (max-width: 768px) {
 
     .footer-distributed .footer-left,
@@ -477,7 +479,7 @@ blockquote h3 {
 
     .footer-distributed .footer-left p.footer-links{
         line-height: 1.8;
-      
+
     }
 
 
@@ -561,6 +563,11 @@ html, body, .container-table {
     margin: 0 0; /* Align slide image horizontally center */
 }
 
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
 
 /* ----- Contact ----- */
 

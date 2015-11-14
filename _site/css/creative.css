@@ -563,6 +563,11 @@ html, body, .container-table {
     margin: 0 0; /* Align slide image horizontally center */
 }
 
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
 
 /* ----- Contact ----- */
 

@@ -555,15 +555,15 @@ html, body, .container-table {
 
 .carousel{
     background: black;
-    margin-top: 0px;
-    height: 550px;
+    margin-top: 100px;
+    height: 5px;
+    text-align: center;
 }
 .carousel .item {
+   
     text-align: center;
     margin: 0 0; /* Align slide image horizontally center */
 }
-
-
 /* ----- Contact ----- */
 
 section#contact {
