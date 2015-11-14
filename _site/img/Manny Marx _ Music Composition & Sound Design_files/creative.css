@@ -101,6 +101,9 @@ aside {
     padding: 50px 0;
 }
 
+.line-spacing{
+    line-height: 40px
+}
 
 
 .no-padding {
@@ -199,7 +202,6 @@ aside {
         color: #222;
     }
 
-/*changes color*/
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
         color: #6799DE;
@@ -273,6 +275,198 @@ header .header-content .header-content-inner p {
     }
 }
 
+/* --- reference page --- */
+.reference_images{       
+    border-radius: 50%     
+}      
+       
+blockquote{        
+  background: black;       
+  text-align: right;       
+  border-left: 5px dotted #6799DE;     
+  border-right: 5px dotted #6799DE;        
+ margin: 1.5em 10px;      
+  padding: 0.5em 10px;     
+  quotes: "\201C""\201D""\2018""\2019";        
+}      
+       
+blockquote:before {        
+  color: #ccc;     
+  content: open-quote;     
+  font-size: 4em;      
+  line-height: 0.1em;      
+  margin-right: 0.25em;        
+  vertical-align: -0.4em;      
+}      
+       
+blockquote:after {     
+  color: #ccc;     
+  content: no-close-quote;     
+  font-size: 4em;      
+  line-height: 0.1em;      
+  margin-right: 0.25em;        
+  vertical-align: -0.4em;      
+}      
+blockquote h3 {        
+  display: inline;     
+}      
+ 
+
+
+
+/* --- footer page --- */
+
+.footer-distributed{
+    
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font: normal 16px sans-serif;
+    padding: 45px 50px;
+    margin-top: 80px;
+
+}
+
+.footer-distributed .footer-left p{
+    color:  white;
+    font-size: 14px;
+    margin: 0;
+}
+
+
+
+#footer{
+    background-image: url(../img/MM_footer.png);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#footer-wrapper {
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.footer-distributed p.footer-links{
+    font-size:18px;
+    font-weight: bold;
+    color:  #6799DE;
+    margin: 0 0 20px;
+    padding: 0;
+
+}
+
+.footer-distributed p.footer-links a{
+    display:inline-block;
+    line-height: 1.8;
+    text-decoration: none;
+    color:  inherit;
+}
+
+.footer-distributed .footer-right{
+    float: right;
+    margin-top: 6px;
+    max-width: 220px;
+}
+
+.fa-facebook{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-color:#3b5998;
+    border-radius: 2px;
+
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+
+    margin-left: 3px;
+}
+
+.fa-twitter{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-color:  #00aced;
+    border-radius: 2px;
+
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+
+    margin-left: 3px;
+}
+
+.fa-youtube-play{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-color:#bb0000;
+    border-radius: 2px;
+
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+
+    margin-left: 3px;
+}
+
+.fa-soundcloud{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-color:#f80;
+    border-radius: 2px;
+
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+
+    margin-left: 3px;
+}
+
+.fa-github-alt{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-color:#ffffff;
+    border-radius: 2px;
+
+    font-size: 25px;
+    text-shadow: 1em 1em 2em black;
+    color: #000;
+    text-align: center;
+    line-height: 35px;
+
+    margin-left: 3px;
+}
+
+@media (max-width: 768px) {
+
+    .footer-distributed .footer-left,
+    .footer-distributed .footer-right{
+        text-align: center;
+    }
+
+    .footer-distributed .footer-right{
+        float: none;
+        margin: 0 auto 20px;
+    }
+
+    .footer-distributed .footer-left p.footer-links{
+        line-height: 1.8;
+    }
+
+
+}
+
 /* --- thank you header page --- */
 
 .thankyoupage {
@@ -302,9 +496,6 @@ html, body, .container-table {
     vertical-align: middle;
 }
 
-
-
-
 .section-heading {
     margin-top: 0;
     color: #6799DE;
@@ -320,7 +511,7 @@ html, body, .container-table {
 @media(min-width:992px) {
     .service-box {
         margin: 20px auto 0;
-        font color: #FFFFFF;
+        font color: #6799DE;
 }
 
 .service-box p {
@@ -362,7 +553,7 @@ section#contact {
 }
 
 section#contact .section-heading {
-    color: #FFFFFF!important;
+    color: #6799DE;
 }
 
 section#contact .form-group {
