@@ -568,7 +568,11 @@ html, body, .container-table {
     color: #6799DE;
 }
 
-
+@media(min-width:992px) {
+    .service-box {
+        margin: 20px auto 0;
+        font color: #6799DE;
+}
 
 
 .service-box p {
