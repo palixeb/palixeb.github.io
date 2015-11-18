@@ -46,32 +46,54 @@ h6 {
     font: #FFFFFF;
 }
 
-/*-- efffect for h1 text --*/
-
+/*-- Fade In Header --*/
 
 .neon{
-        color: #6799DE;
-        transition: color 3s;
-        -moz-transition: color 3s; 
-        -webkit-transition: color 3s; 
-        -o-transition: color 3s; 
-        text-shadow: 0 0 5px black, 0 0 1px black,
-                0 0 2px black, 0 0 3px black,
-                0 0 4px black;
-        transition: text-shadow 3s linear;
-        -moz-transition: text-shadow 3s linear;
-        -webkit-transition: text-shadow 3s linear; 
-        -o-transition: text-shadow 3s linear; 
-}
+    color:#000;
 
+                -webkit-animation: fadein 4s;
+                -moz-animation: fadein 4s;
+                -ms-animation: fadein 4s;
+                -o-animation: fadein 4s;
+                animation: fadein 4s;
 
-
-.neon:hover{
-    color:black;
     text-shadow: 0 0 5px #6799DE, 0 0 10px #6799DE,
                 0 0 20px #6799DE, 0 0 30px #6799DE,
                 0 0 40px #6799DE;
+                -moz-fadeIn: color 3s; 
+                -webkit-fadeIn: color 3s; 
+                -o-fadeIn: color 3s; 
+                transition: text-shadow 3s linear;
+                -moz-fadeIn: text-shadow 3s linear;
+                -webkit-fadeIn: text-shadow 3s linear; 
 }
+
+@keyframes fadein{
+    from { opacity: 0;}
+    to { opacity: 1;}
+}
+
+@-moz-keyframes fadein {
+    from { opacity: 0;}
+    to { opacity: 1;}
+}
+
+@-webkit-keyframes fadein{
+    from { opacity: 0;}
+    to { opacity: 1;}
+}
+
+@-ms-keframes fadein{
+    from { opacity: 0;}
+    to { opacity: 1;}
+}
+
+@-o-keyframes fadein {
+    from { opacity: 0;}
+    to { opacity: 1;}
+}
+
+
 
 
 p {
@@ -103,10 +125,11 @@ aside {
     padding: 50px 0;
 }
 
-.line-spacing{
+/*.line-spacing{
     line-height: 40px
 }
 
+*/
 
 .no-padding {
     padding: 0;
@@ -124,7 +147,8 @@ aside {
 .navbar-default .navbar-header .navbar-brand {
     /*text-transform: uppercase;*/
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 200;
+    font-size: 25px;
     color: black;
 }
 
@@ -136,8 +160,8 @@ aside {
 .navbar-default .nav > li>a,
 .navbar-default .nav>li>a:focus {
     text-transform: uppercase;
-    font-size: 20px;
-    font-weight: 700;
+    font-size: 25px;
+    font-weight: 200;
     color: #222;
 }
 
@@ -190,7 +214,7 @@ aside {
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
-        font-size: 20px;
+        font-size: 25px;
         color: #6799DE;
     }
 
@@ -375,6 +399,9 @@ blockquote h3 {
     margin-top: 6px;
     max-width: 220px;
 }
+
+
+/* --- SNS buttons --*/
 
 .fa-facebook{
     display: inline-block;
@@ -564,11 +591,10 @@ html, body, .container-table {
    background: rgba(103,153,222, .5);
     color: white;
     margin-bottom: 0;
-    height: 700px;
- 
-
 
 }
+
+
 
 .introduction-background{
     background-image:url(../img/mmsuit.jpg);
@@ -578,40 +604,104 @@ html, body, .container-table {
         -moz-background-size: cover;
         background-size: cover;
         -o-background-size: cover;
-        height: 500px;
+        height: 100%;
         padding-top: 0;
 
 
 }
 
+@media(max-width:586px) {
+    .introduction-background{
+        background-image:url(../img/mmsuitsmall.jpg);
+        background-position: center;
+        background-attachment: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        padding-top: 0;
+}
 
+}
 
+@media(max-width:586px) {
+    .introduction-background{
+        background-image:url(../img/mmsuitsmall.jpg);
+        background-position: center;
+        background-attachment: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        padding-top: 0;
+}
+
+}
+@media(max-width:1024px) {
+    .introduction-background{
+        background-image:url(../img/mmsuitsmall.jpg);
+        background-position: center;
+        background-attachment: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        padding-top: 0;
+}
+
+}
 /* --- process ---*/
 
 .process{
    background: rgba(103,153,222, .5);
     color: white;
     margin-bottom: 0;
-    height: 450px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 100px;
-    padding-right: 100px;
 
 }
 
 .process-background{
-    background-image:url(../img/setup.jpg);
+    background-image:url(../img/piano2.png);
         background-position: center;
         background-attachment: fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
         -o-background-size: cover;
-        height: 450px;
+        height: 100%;
         padding-top: 0;
 
 }
+
+@media(max-width:586px) {
+    .process-background{
+
+        background-image:url(../img/piano2.png);
+        background-position: center;
+        background-attachment: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        padding-top: 0;
+}
+
+}
+
+@media(max-width:1024px) {
+    .process-background{
+
+        background-image:url(../img/piano2.png);
+        background-position: center;
+        background-attachment: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        padding-top: 0;
+}
+
+}
+
 
 
 /* --- controls images?! ---*/
@@ -653,12 +743,29 @@ html, body, .container-table {
       margin: auto;
 }
 
+/* --- listen and portfolio responsive videos --- */
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 
 /* ----- Contact ----- */
 
 section#contact {
     background-color: black;
-    padding: 0;
 }
 
 section#contact .section-heading {
@@ -671,15 +778,16 @@ section#contact .form-group {
 
 section#contact .form-group input,
 section#contact .form-group textarea {
-    padding: 20px;
+    padding: 10px;
 }
 
 section#contact .form-group input.form-control {
     height: auto;
+    width: 300px;
 }
 
 section#contact .form-group textarea.form-control {
-    height: 236px;
+    height: 200px;
 }
 
 section#contact .form-control:focus {
@@ -799,7 +907,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 15px 30px;
+    padding: 10px 15px;
     color: black;
     background: #CBCBCB;
 }
