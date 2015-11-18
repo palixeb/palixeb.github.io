@@ -606,6 +606,19 @@ html, body, .container-table {
 }
 
 
+@media(max-width:586px) {
+    .introduction-background{
+        background-color: #000;
+        background-position: center;
+        background-attachment: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        padding-top: 0;
+}
+
+}
 
 
 /* --- process ---*/
@@ -630,6 +643,20 @@ html, body, .container-table {
 
 }
 
+@media(max-width:586px) {
+    .process-background{
+
+        background-color: #000;
+        background-position: center;
+        background-attachment: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        padding-top: 0;
+}
+
+}
 
 .row {
   padding-right: 0px;
