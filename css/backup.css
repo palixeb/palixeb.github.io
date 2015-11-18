@@ -148,7 +148,7 @@ aside {
     /*text-transform: uppercase;*/
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 200;
-    font-size: 25px;
+    font-size: 20px;
     color: black;
 }
 
@@ -160,7 +160,7 @@ aside {
 .navbar-default .nav > li>a,
 .navbar-default .nav>li>a:focus {
     text-transform: uppercase;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 200;
     color: #222;
 }
@@ -214,7 +214,7 @@ aside {
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
-        font-size: 25px;
+        font-size: 20px;
         color: #6799DE;
     }
 
@@ -568,18 +568,8 @@ html, body, .container-table {
     color: #6799DE;
 }
 
-.service-box {
-    margin: 50px auto 0;
-    max-width: 400px;
 
-    
-}
 
-@media(min-width:992px) {
-    .service-box {
-        margin: 20px auto 0;
-        font color: #6799DE;
-}
 
 .service-box p {
     margin-bottom: 0;
@@ -594,6 +584,12 @@ html, body, .container-table {
 
 }
 
+/*--- portfolio --*/
+
+#listen
+{
+    margin: 0;
+}
 
 
 .introduction-background{
@@ -610,44 +606,9 @@ html, body, .container-table {
 
 }
 
-@media(max-width:586px) {
-    .introduction-background{
-        background-image:url(../img/mmsuitsmall.jpg);
-        background-position: center;
-        background-attachment: cover;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-        padding-top: 0;
-}
 
-@media(max-width:768px) {
-    .introduction-background{
-        background-image:url(../img/mmsuitsmall.jpg);
-        background-position: center;
-        background-attachment: cover;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-        padding-top: 0;
-}
 
-}
-@media(max-width:1024px) {
-    .introduction-background{
-        background-image:url(../img/mmsuitsmall.jpg);
-        background-position: center;
-        background-attachment: cover;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-        padding-top: 0;
-}
 
-}
 /* --- process ---*/
 
 .process{
@@ -658,7 +619,7 @@ html, body, .container-table {
 }
 
 .process-background{
-    background-image:url(../img/piano.jpg);
+    background-image:url(../img/piano2.png);
         background-position: center;
         background-attachment: fixed;
         -webkit-background-size: cover;
@@ -670,35 +631,6 @@ html, body, .container-table {
 
 }
 
-@media(max-width:586px) {
-    .process-background{
-
-        background-image:url(../img/piano.jpg);
-        background-position: center;
-        background-attachment: cover;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-        padding-top: 0;
-}
-
-}
-
-@media(max-width:1024px) {
-    .process-background{
-
-        background-image:url(../img/piano.jpg);
-        background-position: center;
-        background-attachment: cover;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-        padding-top: 0;
-}
-
-}
 
 
 
@@ -739,6 +671,24 @@ html, body, .container-table {
 .carousel-inner > .item > a > img {
       width: 70%;
       margin: auto;
+}
+
+/* --- listen and portfolio responsive videos --- */
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 
