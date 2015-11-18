@@ -643,8 +643,8 @@ html, body, .container-table {
 
 }
 
-@media(max-width:586px) {
-    .process-background{
+@media(max-width:790px) {
+    .process{
 
         background-color: #000;
         background-position: center;
