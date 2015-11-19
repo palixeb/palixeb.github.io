@@ -377,7 +377,7 @@ header .header-content .header-content-inner p {
         -o-background-size: cover;
      position: relative;
     width: 100%;
-    min-height: auto;
+    max-height: 100px;
     text-align: center;
 }
 
