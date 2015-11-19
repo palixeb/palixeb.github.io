@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div>
+
+  <header class="post-header">
+    <div class="row">
+    	<div class="col-xm-12 col-md-12 col-lg-12"><h1 style="padding-top:90px; pading-left:200px; text-align:right; color:#ff4b33; font-weight:700; text-shadow: 4px 4px 6px rgba(255,255,225,0.9);">MMxBlog</h1>
+    	</div>
+    </div>
+   
+  </header>
+</div>
+
+<div class="post-content">
+<br>
+	<hr>
+<ul >
+    {% for post in site.posts limit 4 %}
+    <li><span>{{ post.date | date_to_string }}</span> 
+    	&raquo; 
+    	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {{ post.excerpt}}<br>
+            <a href="{{ post.url }}">Read more...</a><br><br>
+    {% endfor %}
+</ul>
+</div>
