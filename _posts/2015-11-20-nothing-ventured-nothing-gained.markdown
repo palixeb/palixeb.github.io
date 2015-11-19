@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 
 				
 
-				<img class="img-responsive" src="img/deskimg.png" alt="">
+				<img class="img-responsive" src="img/deskimg.jpg" alt="desk_img1">
 
 				<hr>
 
