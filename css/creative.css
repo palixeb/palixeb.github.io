@@ -329,14 +329,14 @@ header .header-content .header-content-inner p {
 /*--- post header (BLOG) --*/
 
 .post-header{
-    background-image:url(../img/postheader.png);
+    background-image:url(../img/deskimgsmall.png);
      background-position: center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
         -o-background-size: cover;
      position: relative;
-    width: 100%;
+    width: 100%;s
     height: 100%;
     min-height: auto;
     text-align: center;
