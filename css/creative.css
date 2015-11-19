@@ -370,13 +370,13 @@ header .header-content .header-content-inner p {
 @media(min-width:768px) {
     .post-header{
     background-image:url(../img/deskimgsmall.png);
-     background-position: center;
+     background-position: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
         -o-background-size: cover;
      position: relative;
-    width: 768px;
+    width: 100%;
     max-height: 50px;
     text-align: center;
 }
