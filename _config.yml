@@ -11,8 +11,8 @@ title: Manny Marx | Music Production and Sound Design
 email: mannymarx.music@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Freelance music producer and sound designer for video games YouTube videos podcasts social media platforms and apps. Also beat maker and remixer.
-baseurl: "http://palixeb.github.io" # the subpath of your site, e.g. /blog
-url: "http://palixeb.github.io" # the base hostname & protocol for your site
+baseurl: "http://mannymarx.com" # the subpath of your site, e.g. /blog
+url: "http://mannymarx.com" # the base hostname & protocol for your site
 twitter_username: hirotsu
 github_username:  palixeb
 
