@@ -1,0 +1,51 @@
+---
+layout: post_layout
+title: DIRTWART
+author: manny marx
+excerpt_separator: <!--more-->
+---
+
+<div class="container" style="color:#fff">
+	<div class="row">
+		<div class="col-lg-8" itemscope itemtype="http://schema.org/MusicGroup">
+				<h3 style="color:#ff4b33;">電子の旅</h3>
+				
+
+				<p>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+ 
+				<hr>
+
+				<p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%b %-d, %Y" }}</p>
+
+
+				
+
+				<img class="img-responsive" src="https://f1.bcbits.com/img/0002645377_100.png" alt="DIRTWART">
+
+				<hr>
+
+				 <!-- Post Content -->
+				
+                <p><a href="https://dirtwart.bandcamp.com/music"><span itemprop="name">DIRTWART</span></a> has been busy in 2015. With 7 individual releases, DIRTWART will take your eardrums on an electronic voyage.</p>
+                <p> 6 of the 7 DIRTWART 2015 works are 2 song releases with  hypnotizing album artwork. <img class="img-responsive" src="https://f1.bcbits.com/img/a2593709105_10.jpg" alt="DIRTWART" height="200px" width="200px" align="right"> <!--more-->His recent releases use samples from 20 / 30 years ago (<em>i.e. the early 90's...yes you're old</em>) and a few from a bit <a href="https://dirtwart.bandcamp.com/track/choo-choo">earlier than that</a>. You will find  yourself often pondering, "What song is this from, again?"</p>
+                <p>Even though some of his newer work is sample-heavy, the tracks take on a life of their own so it never becomes a hindrance.
+                The effects and instrumentation have a retro 80's feel to them but without the cheesiness; it's all very mature yet still jocund. </p>
+                <p>DIRTWART's self-titled first album is the only one of his releases which have vocals. The <a itemprop="url" href="https://en.wikipedia.org/wiki/Starscream">Starscream</a> / robotic vocal effects laid over cheerful melodies work surprisingly well. While I listen to the album, I can't help but feel a sense of melancholy or maybe better way to put it is a sober thoughtfulness. I can definitely see DIRTWART's music being used in a film.</p>
+
+                <p>DIRTWART has a little something for everyone especially for those of us who are always are in search of something new. I am looking forward to what DIRTWART puts out next and I really hope it has some more of those Starscream vocals on it!</p>
+
+                <p>You can catch more music and contact DIRTWART on <a href="https://dirtwart.bandcamp.com/music">Bandcamp</a> and <a href="
+                	https://www.facebook.com/dirtwartmusic">Facebook</a></p>
+
+
+                <p>Peace</p>
+                <p style="text-align:right">mmx</p>
+              
+                <hr>
+
+                <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1061087625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://dirtwart.bandcamp.com/album/zero-15803">ZERO 15803 by DIRTWART</a></iframe>
+
+
+        </div>
+	</div>
+</div>
