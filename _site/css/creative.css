@@ -468,7 +468,17 @@ header .header-content .header-content-inner p {
             font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
+.post-content a:link {
+            color: #ff4b33;
+}
 
+.post-content a:visited{
+            color: #ffa599;
+}
+
+.post-content a:hover{
+            color: #992d1e;
+}
 
 .post-summaries {
         font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
