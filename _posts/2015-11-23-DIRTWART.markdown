@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 <div class="container" style="color:#fff">
 
 <meta property="og:image"
-    content="https://f1.bcbits.com/img/a2593709105_10.jpg" />
+    content="www.mannymarx.com/dirtwart.jpg" />
 
 <meta name="description" content="DIRTWART has been busy in 2015. With 7 individual releases, DIRTWART will take your eardrums on an electronic voyage.">
 
@@ -41,7 +41,7 @@ excerpt_separator: <!--more-->
                 <p>DIRTWART has a little something for everyone especially for those of us who are always are in search of something new. If you <em>had</em> to attach a genre to it, it would be <a href="https://www.youtube.com/watch?v=PdpP0mXOlWM"><span itemprop="genre">Vaporwave</span></a> but with tracks like "<a href="https://dirtwart.bandcamp.com/track/beware">BEWARE</a>" the label doesn't do DIRTWART justice. I am looking forward to what DIRTWART puts out next and I really hope it has some more of those Starscream vocals on it!</p>
 
                 <p>You can catch more music and contact DIRTWART on <a href="https://dirtwart.bandcamp.com/music">Bandcamp</a> and <a href="
-                	https://www.facebook.com/dirtwartmusic">Facebook</a></p>
+                	https://www.facebook.com/dirtwartmusic">Facebook.</a></p>
 
 
                 <p>Peace</p>
@@ -49,7 +49,7 @@ excerpt_separator: <!--more-->
               
                 <hr>
 
-                <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1061087625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://dirtwart.bandcamp.com/album/zero-15803">ZERO 15803 by DIRTWART</a></iframe>
+                <iframe style="border: 0; width: 300px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=1061087625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://dirtwart.bandcamp.com/album/zero-15803">ZERO 15803 by DIRTWART</a></iframe>
 
 
         </div>
