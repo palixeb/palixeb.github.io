@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 				<h3 style="color:#ff4b33;">虎穴に入らずんば虎子を得ず</h3>
 				
 
-				<p>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+				<p>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
  
 				<hr>
 

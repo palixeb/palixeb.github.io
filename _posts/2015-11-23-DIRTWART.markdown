@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
 				<a href="2015/11/23/dirtwart.html"><h3 style="color:#ff4b33;">電子の旅</h3></a>
 				
 
-				<p>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+				<p>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
  
 				<hr>
 
