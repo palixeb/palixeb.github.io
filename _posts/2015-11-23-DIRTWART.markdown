@@ -51,20 +51,20 @@ excerpt_separator: <!--more-->
 
                 <iframe style="border: 0; width: 300px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=1061087625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://dirtwart.bandcamp.com/album/zero-15803">ZERO 15803 by DIRTWART</a></iframe>
 
-                 <div class="row">
-    <div class="col-lg-8 col-xs-12" style="width:320px;height:100px; border:dotted;">
+                <div class="row" style="">
+    <div class="span3 offset2" style="border:dotted; height:300px; width:300px;">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- add1 -->
+<!-- first add -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
+     style="display:block"
      data-ad-client="ca-pub-1089464332371364"
-     data-ad-slot="7752011530"></ins>
+     data-ad-slot="6709793538"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
 </div>
-
 
         </div>
 	</div>
