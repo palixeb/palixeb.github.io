@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 	<div class="row">
 		<div class="col-lg-8" itemscope itemtype="http://schema.org/MusicGroup">
-				<a href="2015/11/23/dirtwart.html"><h3 style="color:#ff4b33;">電子の旅</h3></a>
+				<a href="http://mannymarx.com/2015/11/23/dirtwart.html"><h3 style="color:#ff4b33;">電子の旅</h3></a>
 				
 
 				<p>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
 
 				
 
-				<a href="2015/11/23/dirtwart.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0002645377_100.png" alt="DIRTWART"></a>
+				<a href="http://mannymarx.com/2015/11/23/dirtwart.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0002645377_100.png" alt="DIRTWART"></a>
 
 				<hr>
 
