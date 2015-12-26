@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
     <div class="row">
         <div class="col-lg-8" itemscope itemtype="http://schema.org/MusicGroup">
-                <a href="http://http://mannymarx.com/2015/12/26/GamesOnCassette-Spencer-Riedel.html"><h3 style="color:#ff4b33;">探求者</h3></a>
+                <a href="http://mannymarx.com/2015/12/26/GamesOnCassette-Spencer-Riedel.html"><h3 style="color:#ff4b33;">探求者</h3></a>
                 
 
                 <p>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
                 <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%b %-d, %Y" }}</p>
 
 
-                <a href="http://http://mannymarx.com/2015/12/26/GamesOnCassette-Spencer-Riedel.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0006415819_100.png" alt="Spencer Riedel"></a>
+                <a href="http://mannymarx.com/2015/12/26/GamesOnCassette-Spencer-Riedel.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0006415819_100.png" alt="Spencer Riedel"></a>
 
 
 				<hr>
