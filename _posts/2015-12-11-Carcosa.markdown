@@ -59,7 +59,7 @@ excerpt_separator: <!--more-->
        		 <div class="row">
             	<div class="span4">
             		</div>
-                		<!-- Link to Artist's Music -->
+                		<iframe style="border: 0; width: 300px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=1571464859/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://carcosali.bandcamp.com/album/demo-2015">Demo 2015 by Carcosa</a></iframe>
               	<div class="span4">
            
     		</div>
