@@ -56,13 +56,9 @@ excerpt_separator: <!--more-->
                 <hr>
 
      	
-       		 <div class="row">
-            	<div class="span4">
-            		</div>
+       		
                 		<iframe style="border: 0; width: 300px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=1571464859/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://carcosali.bandcamp.com/album/demo-2015">Demo 2015 by Carcosa</a></iframe>
-              	<div class="span4">
-           
-    		</div>
+            
         </div>
 	</div>
 </div>
