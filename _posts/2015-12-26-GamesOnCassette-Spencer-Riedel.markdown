@@ -32,7 +32,7 @@ excerpt_separator: <!--more-->
 				 <!-- Post Content -->
 				
                 <p> 
-                    At 17 tracks plus 8 bonus tracks <a href="https://spencerriedel.bandcamp.com/releases" target="blank">Spencer Riedel's soundtrack</a> for <a href="http://bearcowboy.com/">Bearcowboy's</a> game <a href="https://www.youtube.com/watch?v=6cR0SKQAfGQ" target="blank">Charlotte Seeker</a> is a fountain overflowing with stellar musical landscapes. Get ready to be taken on an hour-long musical escapade!
+                    At 17 tracks plus 8 bonus tracks, <a href="https://spencerriedel.bandcamp.com/releases" target="blank">Spencer Riedel's soundtrack</a> for <a href="http://bearcowboy.com/">Bearcowboy's</a> game <a href="https://www.youtube.com/watch?v=6cR0SKQAfGQ" target="blank">Charlotte Seeker</a> is a fountain overflowing with stellar musical landscapes. Get ready to be taken on an hour-long musical escapade!
                     <img class="img-responsive" height="200px" width="200px" align="right" alt="
                     Charlotte Seeker - Games On Cassette" src="https://f1.bcbits.com/img/a1887575801_16.jpg">
 
