@@ -797,7 +797,6 @@ html, body, .container-table {
 
 }
 
-
 @media(max-width:586px) {
     .introduction-background{
         background-image:url(../img/mmsuitsmall.jpg);
@@ -1043,3 +1042,38 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
+/*-- Diasopra Page --*/
+
+
+.diasopra-background{
+    background-image:url(../img/../img/Diaspora.png);
+        background-position: center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        height: auto;
+        padding: 0;
+
+
+}
+
+@media(max-width:586px) {
+    .diasopra-background{
+        background-image:url(../img/Diaspora.png);
+        background-position: center;
+        background-attachment: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        padding-top: 0;
+}
+
+}
+
+.diaspora{
+   background: rgba(48,48,48,.8);
+    color: white;
+    margin-bottom: 0;

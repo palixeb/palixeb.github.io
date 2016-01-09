@@ -1,0 +1,3 @@
+jekyll serve --watch --config _config.yml,_config-dev.yml
+
+more can be found at http://jekyllrb.com/docs/usage/
