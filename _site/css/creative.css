@@ -1077,3 +1077,10 @@ body {
    background: rgba(48,48,48,.8);
     color: white;
     margin-bottom: 0;
+}
+
+.diaspora_report {
+
+    font-family:"Courier New", Courier, monospace
+
+}
