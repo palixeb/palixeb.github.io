@@ -1061,7 +1061,7 @@ body {
 
 @media(max-width:586px) {
     .diasopra-background{
-        background-image:url(../img/Diaspora.png);
+        background-image:url(../img/Diaspora.jpg);
         background-position: center;
         background-attachment: cover;
         -webkit-background-size: cover;
