@@ -1,7 +1,7 @@
 ---
 layout: post_layout
 title: Global Game Jam
-author: manny marx
+author: manny marx / edited by kanako suto
 excerpt_separator: <!--more-->
 ---
 
@@ -32,11 +32,15 @@ excerpt_separator: <!--more-->
 				 <!-- Post Content -->
 				
                 <p> 
-                   俺は、デカい送電線とか、デカい橋とか、高層ビルとかを見たときに、それをどうやって造ったんだろう、ゼロから造り上げるのに、どのくらいの人が携わるのだろうって考えることがある。ちなみに、俺はゲームしているときも、同じことを考えていて、「これどうやって作ってるんだろう？」「これどうやったら考え付くわけ？」って思うことがある。それで、それと似た感覚を２０１６年のドワンゴグローバルゲームジャム（以下GGJ）で経験することができた。</p>
+                   俺は、デカい送電線とか、デカい橋とか、高層ビルとかを見たときに、それをどうやって造ったんだろう、ゼロから造り上げるのに、どのくらいの人が携わるのだろうって考えることがある。ちなみに、俺はゲームしているときも、同じことを考えていて、「これどうやって作ってるんだろう？」「これどうやったら考え付くわけ？」って思うことがある。それで、それと似た感覚を<a href="http://globalgamejam.org/2016/jam-sites/dwango">２０１６年のドワンゴグローバルゲームジャム</a>（以下GGJ）で経験することができた。</p>
 
  
                  <p> When I see giant electric towers, bridges, skyscrapers, and a bunch of other man-made structures and just marvel at them. I think to myself, "How many minds and bodies did it take to put this all together?" I also do the same thing with video games, and if I really think about it, it's one of the main things that I enjoy about them. During a game I think to myself, "How did they make this possible?"," "How did they think of this?!" I got a small taste of it  during the <a href="http://globalgamejam.org/2016/jam-sites/dwango">2016 Dwango Global Game Jam</a>.</p>
-
+                 <div align="center">
+                 <iframe width="400" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245426614&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+                </div> 
+                <br>                                    
+                <!--more-->
                  <p> ２０１６年GGJはものすごく楽しかった！まあ、ちょっと疲れたけど、ゲーム開発の世界を垣間見ることができて、とてもいい経験が出来た。GGJを簡単に説明すると、俺が参加した東京会場イベントには、７０人が参加。１０班に分かれて、各グループがゲームを開発した。スキルレベル関係なしで、あらゆる人が参加できる。俺のグループは１０班で６人だった。
 </p>
  
