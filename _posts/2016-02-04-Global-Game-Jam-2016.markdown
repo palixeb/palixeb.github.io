@@ -35,27 +35,27 @@ excerpt_separator: <!--more-->
                    俺は、デカい送電線とか、デカい橋とか、高層ビルとかを見たときに、それをどうやって造ったんだろう、ゼロから造り上げるのに、どのくらいの人が携わるのだろうって考えることがある。ちなみに、俺はゲームしているときも、同じことを考えていて、「これどうやって作ってるんだろう？」「これどうやったら考え付くわけ？」って思うことがある。それで、それと似た感覚を<a href="http://globalgamejam.org/2016/jam-sites/dwango">２０１６年のドワンゴグローバルゲームジャム</a>（以下GGJ）で経験することができた。</p>
 
  
-                 <p> When I see giant electric towers, bridges, skyscrapers, and a bunch of other man-made structures I can't help but to marvel at them. I think to myself, "How many minds and bodies did it take to put this all together?" I also do the same thing with video games, and if I really think about it, it's one of the main things wjich are enjoyable about them. During a game I often ponder, "How did they make this possible?"," "How did they think of this?!" Well, I was lucky enough to get a small taste of it during the <a href="http://globalgamejam.org/2016/jam-sites/dwango">2016 Dwango Global Game Jam</a>.</p>
+                 <p> When I see giant electric towers, bridges, skyscrapers, and a bunch of other man-made structures I can't help but to marvel at them. I think to myself, "How many minds and bodies did it take to put this all together?" I also have the same appreciation for video games, and if I really think about it, it's one of the main aspects which I enjoy about them. Many times while playing a game I often ponder, "How did they make this possible?"," "How did they think of this?!" Well, I was lucky enough to get a small taste of the process at the <a href="http://globalgamejam.org/2016/jam-sites/dwango">2016 Dwango Global Game Jam</a>.</p>
                  <div align="center">
-                 <iframe width="400" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245426614&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+                 <iframe width="300" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245426614&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
                 </div> 
                 <br>                                    
                 <!--more-->
                  <p> ２０１６年GGJはものすごく楽しかった！まあ、ちょっと疲れたけど、ゲーム開発の世界を垣間見ることができて、とてもいい経験が出来た。GGJを簡単に説明すると、俺が参加した東京会場イベントには、７０人が参加。１０班に分かれて、各グループがゲームを開発した。スキルレベル関係なしで、あらゆる人が参加できる。俺のグループは１０班で６人だった。
 </p>
  
-             <p>This past weekend I took part in Global Game Jam 2016. It was a great—albeit tiring— experience and I got to get a glimpse into the game making world. In short the Global Game Jam is a world-wide event which people of all skill levels and talents get together and make video game over a weekend. Designers, programmers, and whomever else are put into random groups and then are tasked with creating a game based on a theme. For example, the event I was apart of GGJ_2016_Dwango there were 10 teams with about 7 people per team (my team had 6).</p>
+             <p>This past weekend I took part in Global Game Jam 2016. It was a great—albeit tiring—experience and I got to get a glimpse into the game-making world. In short, the Global Game Jam is a world-wide event which people of all skill levels and talents get together and make a video game over a weekend. Designers, programmers, and whomever else are put into random groups and then are tasked with creating a game based on a theme. For example, the event I was apart of GGJ 2016 sponsored by Dwango there were 10 teams with about 7 people per team (my team had 6).</p>
 
-             <p>参加申し込みはしたけど、、、。俺は、イベントがどう進むのか全く想像がつかなかった。だからUnreal Engine４(UE4)で足音とBGMと効果音の音をどうやって作るのか勉強しながらしばらく過ごした。それから俺は、<a href="http://www.fmod.org/">FMOD</a>のミドルウェアでアダプティブミュージックも勉強した。だけど、イベントの１週間前にGGJではUnityの方が使えることが分かったから、UE4の勉強を休憩して、Unityの勉強を始めた。残念ながら、イベントまでにUnityを十分に勉強する時間が足りなかったけど、なんとなく理解はできてたと思う。。。</p>
+             <p>参加申し込みはしたけど、、、。俺は、イベントがどう進むのか全く想像がつかなかった。だから<a href="https://www.unrealengine.com/what-is-unreal-engine-4">Unreal Engine４</a>(UE4)で足音とBGMと効果音の音をどうやって作るのか勉強しながらしばらく過ごした。それから俺は、<a href="http://www.fmod.org/">FMOD</a>のミドルウェアでアダプティブミュージックも勉強した。だけど、イベントの１週間前にGGJでは<a href="https://unity3d.com/">Unity</a>の方が使えることが分かったから、UE4の勉強を休憩して、Unityの勉強を始めた。残念ながら、イベントまでにUnityを十分に勉強する時間が足りなかったけど、なんとなく理解はできてたと思う。。。</p>
 
-            <p> Prior to the event I didn't know what to expect so I spent sometime learning how to make foot steps, ambient sounds, and back ground music in Unreal Engine 4(UE4). Then I started to mess with <a href="http://www.fmod.org/">FMOD</a> and making adaptive music in UE4 as well. However, I didn't realize until a week before the event that Unity was the goto engine for GGJ events. So I switched over to Unity but didn't have enough time to wrap my head around scripting sound into a game. Nevertheless, I had a decent idea on how to do it (at least I thought I did). </p>
-             <div align="center"><img class="img-responsive" width="320" height="240" align="center" src="img/synthstation.jpg" alt="Akai Synthstation 25"> </div>
+            <p> Prior to the event I didn't know what to expect, so I spent sometime learning how to make foot steps, ambient sounds, and back ground music in <a href="https://www.unrealengine.com/what-is-unreal-engine-4">Unreal Engine４</a>((UE4). Then I started to mess with <a href="http://www.fmod.org/">FMOD</a> and making adaptive music in UE4 as well. However, I didn't realize until a week before the event that <a href="https://unity3d.com/">Unity</a> was the goto engine for GGJ events. So I switched over to Unity but didn't have enough time to wrap my head around scripting sound into a game. Nevertheless, I had a decent idea on how to do it (at least I thought I did). </p>
+             <div align="center"><img class="img-responsive" width="320" height="240" align="center" src="img/synthstation.jpg" alt="Akai Synthstation 25"> </div> 
             
 
 <br>
              <p> イベント前日の夜、俺は音のテストをしてた。そしたら、まさかの、アカイミニキーボードが壊れてしまった。直そうと思ったけど時間がなかなかなかった。だから、イベント前に俺の大好きなアーティスト<a href="http://www.amano-exhibition.jp/">天野喜孝</a>の美術展覧会へ行く代わりに、池袋のPOWERDJ's店へMIDIキーボードを買いに行くことにした。本当はアカイMPKミニを買いたかったけど、売り切れちゃってて、最終的にアカイLPK２５を買った。LPK２５の特徴は、アルペジオのパターンとタープテンポパターンがあって結構いいものです。だけど、まだMPKミニを手に入れようと考えている。だって、ライブするときは<a href="http://www.apple.com/mainstage/">MainStage</a>とMPKミニが最高だから。</p>
 
-             <p> The night before the event while I was testing my gear I realized that my Akai SynthStation 25's keys weren't working. I took it apart but realized that it was going to be a project that would take more time than I had. So I had to scratch my planned visit to the <a href="http://www.amano-exhibition.jp/">Amano Yoshitake</a> art exhibition and  decided to head to POWERDJ's to pick up a new small midi controller. I wanted to get the AKAI professional MPK mini but they were sold out so I settled with a AKAI professional LPK25 which has a cool little arpeggiator built in with a tap tempo function. I still have my eye on the MPK though... it would be great to use with <a href="http://www.apple.com/mainstage/">MainStage</a> for live performances.</p>
+             <p> The night before the event while I was testing my gear I realized that my <a href="http://www.akaipro.com/product/synthstation25">Akai SynthStation 25</a>'s keys weren't working. I took it apart but realized that it was going to be a project that would take more time than I had. So I had to scratch my planned visit to the <a href="http://www.amano-exhibition.jp/">Amano Yoshitake</a> art exhibition and decided to head to POWERDJ's to pick up a new small midi controller. I wanted to get the <a href="http://www.akaipro.com/index.php/product/mpkmini">AKAI professional MPK mini</a> but they were sold out. So I settled with an <a href="http://www.akaipro.com/index.php/product/lpk25">AKAI professional LPK25</a> which has a cool little arpeggiator with a tap tempo function built it. I still have my eye on the MPK though... it would be great to use with <a href="http://www.apple.com/mainstage/">MainStage</a> for live performances.</p>
             
 
              <div class="ggjimg" align="center">
@@ -66,7 +66,7 @@ excerpt_separator: <!--more-->
 <br>
              <p> 俺が参加したGGJ東京会場は、『ドワンゴ会場@東銀座』で東銀座駅の近くにある松竹スクエアビルで行われた。会場にチェックインして、開始の時間になるとグループナンバーを渡された。GGJの会場内には、皆んなが活動するワークルームの他にも、休んだり眠ったりする休憩ルームも用意されていたし、会場の様子はニコニコ動画で中継もされてた。とにかくGGJの管理はスゴく良かった。開始早々には、Kenji Onoが<a href="http://globalgamejam.org/about">イベントについて説明して</a>、そのあとイベント紹介ビデオが流された。ビデオにはSiobhan RebbyとRamez Naamからの基調講演が入ってて、ビデオの最後に今年のGGJのテーマが発表された。今年のテーマは「RITUAL」だった。<div><img class="img-responsive" width="320" height="240" align="right" src="img/ggjbrainstrm.jpg" alt="brainstorming"> </div>
 
-             <p> The game Jam was in Ginza at Shouchiku building which is pretty much in front of East Ginza Subway station. I after checking in I was given a group number (10) and it was go time. It took place in a 2 conference rooms, one where everyone worked and another empty room where you could go for a break/sleep.  The event was actually very well managed and was also broadcast on <a href="http://www.nicovideo.jp/?">niconico video</a>'s website. GGJ kicked off promptly at 5pm and the event organizer Kenji Ono gave a presentation about <a href="http://globalgamejam.org/about">what the event was all about</a>. After the presentation a GGJ video intro video with a pretty good chiptune trap beat was shown.   by two keynote speeches by (names) which prepared us for the theme of the game which was "RITUAL".</p>
+             <p> The GGJ was in Ginza in the Shouchiku building which is pretty much in front of the East Ginza Subway station. After checking in I was given a group number (10) and from there it was go time. The event took place in 2 conference rooms, one where everyone worked and another empty room where you could go for a break/sleep.  The event was actually very well managed and was also broadcast on <a href="http://www.nicovideo.jp/?">niconico video</a>'s website. GGJ kicked off promptly at 5pm, the event organizer Kenji Ono gave a presentation about <a href="http://globalgamejam.org/about">what the event was all about</a>. Following that a GGJ video intro video with a pretty good chiptune trap beat was shown. The video showed to presentations / keynote speeches by Siobhan Rebby and Ramez Naam which were to prepare us for the theme of the game which was "RITUAL".</p>
 
             <p>次に、俺たちのチームは、今年のテーマである「RITUAL」を聞いて、なんのイメージを持っているか意見やアイデアを出し合った。そして、ゲームのコンセプトは、「日の出までに、カボチャを投げる吸血鬼学生は、吸血鬼ハンターから身を守る」ことになった。 </p>
             
@@ -77,14 +77,14 @@ excerpt_separator: <!--more-->
             <br>
              <p>チーム内で俺は、アクションゲームでの<a href="https://soundcloud.com/mannymarx/bgm">回転のアップビートを作曲した</a>。コンセプトのハロウィーンとか吸血鬼を表現するため、曲の楽器編成は色々なオルガンを使った。SEは、ほとんど<a href="https://www.youtube.com/watch?v=jeufAYD5g3g">LogicProXのEMF1</a>を使って音のサンプリングをした。俺は、FMODで敵が近くに来たときに、震える音を作りたかったけど、そのプログラミングスキルはまだなくて出来なかった。だから、最後の日はちょっと暇になったからゲームのコマーシャルを作った。</p>
 
-             <p> Since the game was action based <a href="https://soundcloud.com/mannymarx/bgm">I wrote a looping upbeat song</a> that had an array of different sounding organs to give it a vampire / Halloween vibe. The SFX were made with <a href="https://www.youtube.com/watch?v=jeufAYD5g3g">Logic's EMF1</a> as well as sampled sounds I made on site. I wanted to implement FMOD and add a trill sound when the player got close to a vampire hunter but I lacked the knowledge to do do and the time to learn. So I decided to make a commercial for the game using some menu music I created.</p>
+             <p> Since the game was action based <a href="https://soundcloud.com/mannymarx/bgm">I wrote a looping upbeat song</a> that had an array of different sounding organs to give it a vampire / Halloween vibe. The SFX were made with <a href="https://www.youtube.com/watch?v=jeufAYD5g3g">Logic's EMF1</a> as well as sampled sounds I made on site. I wanted to implement FMOD and add a trill sound when the player got close to a vampire hunter but I lacked the know how and the time to learn. So I decided to make a commercial for the game using menu music that wasn't able to be used.</p>
              <div align="center">
-               <iframe width="400" height="300" src="https://www.youtube.com/embed/3oVwSrl88yQ" align="center" frameborder="0" allowfullscreen></iframe></p>
+               <iframe width="300" height="315" src="https://www.youtube.com/embed/3oVwSrl88yQ" align="center" frameborder="0" allowfullscreen></iframe></p>
             </div>
 
              <p>ゲーム開発はとても面白いです。この経験の中で、AIのプログラミングが一番難しかった。それと３Dのデザインは結構時間がかかった。音楽を作る中で大変だったのは、チーム皆んなの考えているビジョンと音楽をマッチさせることだった。だから、ミュージカルディレクターの仕事は大変だなぁと思った。この挑戦は良かったけど、プログラミングではもっとチームを手伝いたかった。まぁ、たくさんゲームのアイデアをインプットできたからよかった。来年参加したら、絶対にFMODか、他のミドルウェアを使おうと思う。</p>
 
-             <p> The game making process is very interesting and what I took away from it was that programing AI is the most difficult task and 3d design is the most time consuming one. The hardest part about it for me is making music and sound effects that match the vision of everyone. I enjoyed the challenge but I also felt bad that I wasn't able to help out with the coding. Although, I did have a lot of ideas that made into the game. Nevertheless, when I go to GGJ next year I will be ready to code the music and sounds into the game as well as have a firm grasp on FMOD.</p>
+             <p> The game making process is very interesting and what I took away from it was that programing AI is the most difficult task while 3D design / animation is the most time consuming. The hardest part about it for me was making music and sound effects that matched the vision of everyone in the group. I enjoyed the challenge but I also felt bad that I wasn't able to help out with the coding. Although, I did have a lot of ideas that made into the game. Nevertheless, when I go to GGJ next year I will be ready to code the music and sounds into the game as well as have a firm grasp of FMOD.</p>
 
              <p>この経験から学んだこと：</p>
             <p>
@@ -108,7 +108,7 @@ excerpt_separator: <!--more-->
                 <div align="center"><img class="img-responsive" align= "center" width="640" height="480" src="img/ggjinthethickofit.jpg"></div>
             <br>
             <p>すごいですね。４８時間の間で、会ったばかりの６人が、何もないところからゲームを作れるなんて。努力、協力、才能、、人間はすごいこと出来ますね。</p>
-            <p>What blows me away is that within 48 hours a group of 6 strangers created something from nothing. Effort, cooperation, and skill is what us humans have evolved to do and we do a great job at it.</p>
+            <p>What blows me away is that within 48 hours a group of 6 strangers created something from nothing. Effort, cooperation, and skill are traits which helped us humans go from hunter-gathers to landing robots on other celestial bodies.</p>
 
             <p>一週間が経って残っている印象は、ゲームのサウンドデザインと楽曲を作るのが大好きだと実感していることです。GGJによって2016年の幕を開けるのは素晴らしいことだった。今年は自分の技を磨くことと、ゲームのサウンドエンジニアについてもっと勉強するつもりです。</p>
 
@@ -117,9 +117,9 @@ excerpt_separator: <!--more-->
 
             <p>もし、このイベントが面白そうだと思ったら、行ったほうがいいよ！ゲーム開発出来なくても、UnityとUE4は無料ダウンロード出来る。そして、ネットでたくさん無料レッスンがある。来年のGGJまでまだ１年あるよ！早く勉強するほど良いです！頑張れ！</p>
 
-            <p>If this sounds like something you would be interested in check it out! Even if you have no knowledge on how to make games, Unity is free to download (as well as UE) and there are a ton of tutorials on how to use it. You have a full year until the next GGJ the sooner you get started the better!!!</p>
+            <p>If Global Game Jam sounds like something you would be interested in check it out! Even if you have no knowledge on how to make games, Unity is free to download (as well as UE4) and there are a ton of free tutorials on how to use it. You have a full year until the next GGJ, so the sooner you get started the better!!!</p>
 
-            <p>You can checkout the game by clicking <a href="http://globalgamejam.org/2016/games/sacrifice-academy"><b>here</b></a> or by the game's logo image below.
+            <p>You can checkout the game we made by clicking <a href="http://globalgamejam.org/2016/games/sacrifice-academy"><b>here</b></a> or by clicking the game's logo image below.
                 
                 <p>Peace</p>
                 <p style="text-align:right">mmx</p>
