@@ -707,7 +707,22 @@ blockquote h3 {
 
 }
 
+.fa-instagram{
+     display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-color:#3f729b ;
+    border-radius: 2px;
 
+    font-size: 25px;
+    text-shadow: 1em 1em 2em black;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 35px;
+
+    margin-left: 3px;
+
+}
 
 @media (max-width: 768px) {
 
