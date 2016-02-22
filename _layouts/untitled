@@ -1,21 +1,4 @@
-    <section id="listen" class="">
-
-
-        <!-- Page Heading -->
-        <div class="row" style="text-align:center">
-            
-            <div class="col-lg-12">
-               <h2 style="color:#6799DE" > Here are some projects I have been a part of</h2>
-                 <hr>
-            </div>
-       
-        <br>
-
-        <!-- Projects Row -->
-        <div class="row" style="text-align:center">
-            
-            <div class="container col-md-4 portfolio-item">
-                 <iframe width="300" height="315" src= "https://www.youtube.com/embed/U1txqTzMtqc" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="315" src= "https://www.youtube.com/embed/U1txqTzMtqc" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class="container col-md-4 portfolio-item">
                 
@@ -42,10 +25,30 @@
             <div class="container col-md-4 portfolio-item">
               
                <iframe style="border: 0; width: 300px; height: 300px;" src="https://bandcamp.com/EmbeddedPlayer/album=3075298918/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://correspondentsny.bandcamp.com/album/arms-length">Arm&#39;s Length by Correspondents</a></iframe>
+
+
+
+               <iframe width="300" height="315" src= "https://www.youtube.com/embed/U1txqTzMtqc" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="container col-md-4 portfolio-item">
+                <iframe width="300" height="315" src= "https://www.youtube.com/embed/OjG3VdFQMe0" frameborder="0" allowfullscreen></iframe>
             </div>
 
+            <iframe width="300" height="315" src="https://www.youtube.com/embed/ZtL69ArZCyI" frameborder="0" allowfullscreen></iframe>
+            </div>
+    
         </div>
-     
-                <div style="text-align:center">
-                    <a href="/portfolio.html" class="btn btn-primary btn-xl page-scroll">click here to see more</a></div>
-</section>
+        <!-- /.row -->
+
+        <!-- Projects Row -->
+        <div class="row" style="text-align:center">
+            
+            <div class="container col-md-4 portfolio-item">
+                <iframe width="300" height="315" src="https://www.youtube.com/embed/ZtL69ArZCyI" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="container col-md-4 portfolio-item">
+               <iframe width="300" height="315" src= "https://www.youtube.com/embed/E0sgYXhPoUs" frameborder="0" allowfullscreen></iframe>
+            </div>
+
+            <div class="container col-md-4 portfolio-item">
+               <iframe width="300" height="315" src="https://www.youtube.com/embed/_ILer2Ye9BE" frameborder="0" allowfullscreen></iframe>
