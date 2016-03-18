@@ -1137,6 +1137,47 @@ body {
    
 }
 
+.test2 {
+    -webkit-transition: color 7s ease-out;
+        -moz-transition: color 7s ease-out;
+        -o-transistion: color 7s ease-out;
+        -ms-transition: color 7s ease-out;
+        transition: color 7s ease-out;
+
+        color:white;
+}
+
+.test2 span:hover {
+
+    /* changes color instantantly with out these transitons it takes 7s to ease-in */
+        -moz-transition: color; /* instant color change */
+        -o-transistion: color; 
+        -ms-transition: color;
+        transition: color;
+     color: red;
+   
+}
+.test3 {
+    -webkit-transition: color 7s ease-out;
+        -moz-transition: color 7s ease-out;
+        -o-transistion: color 7s ease-out;
+        -ms-transition: color 7s ease-out;
+        transition: color 7s ease-out;
+
+        color:white;
+}
+
+.test3 span:hover {
+
+    /* changes color instantantly with out these transitons it takes 7s to ease-in */
+        -moz-transition: color; /* instant color change */
+        -o-transistion: color; 
+        -ms-transition: color;
+        transition: color;
+     color: red;
+   
+}
+
 
 /* -- text in image -- */
 

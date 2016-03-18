@@ -58,5 +58,34 @@
 
     </script> 
 
+    <script>
+     $(function()
+     {
+      var text = $('.test2').text();
+      var atext = text.split("");
+      var newText = '';
+      for(var i=0; i< atext.length; i++)
+      {
+        newText += '<span class = "test2">' + atext[i]+'</span>';
+      }
+      $('.test2').html(newText);
+    });
+
+    </script> 
+    <script>
+     $(function()
+     {
+      var text = $('.test3').text();
+      var atext = text.split("");
+      var newText = '';
+      for(var i=0; i< atext.length; i++)
+      {
+        newText += '<span class = "test3">' + atext[i]+'</span>';
+      }
+      $('.test3').html(newText);
+    });
+
+    </script> 
+
 
 </html>
