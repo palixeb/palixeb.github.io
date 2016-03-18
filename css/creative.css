@@ -1117,11 +1117,12 @@ body {
 }
 
 .test1 {
-    -webkit-transition: color 7s ease-out;
-        -moz-transition: color 7s ease-out;
-        -o-transistion: color 7s ease-out;
-        -ms-transition: color 7s ease-out;
-        transition: color 7s ease-out;
+    opacity:1;
+    -webkit-transition: opacity 7s ease-out;
+        -moz-transition: opacity 7s ease-out;
+        -o-transistion: opacity 7s ease-out;
+        -ms-transition: opacity 7s ease-out;
+        transition: opacity 7s ease-out;
 
         color:white;
 }
@@ -1133,7 +1134,7 @@ body {
         -o-transistion: color; 
         -ms-transition: color;
         transition: color;
-     color: red;
+     opacity: 0.5;
    
 }
 
@@ -1154,7 +1155,7 @@ body {
         -o-transistion: color; 
         -ms-transition: color;
         transition: color;
-     color: red;
+     color: black;
    
 }
 .test3 {
