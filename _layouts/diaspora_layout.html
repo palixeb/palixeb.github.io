@@ -41,5 +41,22 @@
 
     </script>
 
+    <!-- change color on mouse over -->
+    
+    <script>
+     $(function()
+     {
+      var text = $('.test1').text();
+      var atext = text.split("");
+      var newText = '';
+      for(var i=0; i< atext.length; i++)
+      {
+        newText += '<span class = "test1">' + atext[i]+'</span>';
+      }
+      $('.test1').html(newText);
+    });
+
+    </script> 
+
 
 </html>
