@@ -1713,6 +1713,12 @@ footer-distributed. {
 opacity:1; 
 }
 
+ .redtext {
+    color: #ff8080;
+    opacity: .6;
+    font-weight: bold;
+ }
+
 /* -- text in image -- */
 }
 .ggjimg { 
@@ -1736,9 +1742,9 @@ opacity:1;
    padding: 10px; 
 }
 
-/*
- *Scrolling
- */
+/* Scrolling */
+
+
 
 a[ id= "sec2" ]:target ~ #main section.table {
     -webkit-transform: translateY( 0px);
