@@ -1638,13 +1638,42 @@ div.horizontal {
     margin-top: 5.5px;
     color: white;
 }
+/*  fade in on mouse scroll */
 
+.demo {
 
+}
+
+footer-distributed. {
+
+}
+
+.hideme
+{
+    opacity:0;
+}
 .bottom {
     position: absolute;
     bottom: 0;
     left: 0;
 }
+
+/* -- tesseract -- */
+
+.tesseract{
+    max-width: 5%;
+    height: auto;
+
+}
+
+/* -- arrow -- */
+
+.arrow-dia {
+    max-width: 5%;
+    height: auto;
+    opacity: .3;
+}
+
 
 /* -- text in image -- */
 
