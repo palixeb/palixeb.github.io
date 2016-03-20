@@ -1606,6 +1606,12 @@ div.horizontal {
     opacity: 1;
 }
 
+.dummylink:not([href]) a:hover {
+     text-decoration: none;
+    color: red;
+    opacity: 1;
+}
+
 .footer-center p{
     color:  white;
     font-size: 14px;
@@ -1669,12 +1675,22 @@ footer-distributed. {
 /* -- arrow -- */
 
 .arrow-dia {
-    max-width: 5%;
-    height: auto;
     opacity: .3;
+    max-width: 100%
+    max-height: auto;
+     -webkit-transform:scale(0.6); /*Webkit: Scale down image to 0.6x original size*/
+    -moz-transform:scale(0.6); /*Mozilla scale version*/
+    -webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+    -moz-transition-duration: 0.5s; /*Mozilla duration version*/
+    -o-transition-duration: 0.5s; /*Opera duration version*/
 }
 
 
+.arrow-dia:hover{
+-webkit-transform:scale(0.9); /*Webkit: Scale up image to most of the original size*/
+-moz-transform:scale(0.9); /*Mozilla scale version*/
+-o-transform:scale(0.9); /*Opera scale version*/
+}
 /* -- text in image -- */
 
 .ggjimg { 
@@ -1696,4 +1712,22 @@ footer-distributed. {
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.3);
    padding: 10px; 
+}
+
+/*
+ *Scrolling
+ */
+
+a[ id= "sec2" ]:target ~ #main section.table {
+    -webkit-transform: translateY( 0px);
+    transform: translateY( 0px );
+}
+
+a[ id= "sec3" ]:target ~ #main section.table {
+    -webkit-transform: translateX( -500px );
+    transform: translateX( -500px );
+}
+a[ id= "sec4" ]:target ~ #main section.table {
+    -webkit-transform: translateX( -1000px );
+    transform: translateX( -1000px );
 }
