@@ -1701,22 +1701,20 @@ footer-distributed. {
     opacity: .3;
     max-width: 100%
     max-height: auto;
-     -webkit-transform:scale(0.6); /*Webkit: Scale down image to 0.6x original size*/
-    -moz-transform:scale(0.6); /*Mozilla scale version*/
-    -webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
-    -moz-transition-duration: 0.5s; /*Mozilla duration version*/
-    -o-transition-duration: 0.5s; /*Opera duration version*/
+    /*
+     -webkit-transform:scale(0.6); 
+    -moz-transform:scale(0.6); /*Mozilla scale version
+    -webkit-transition-duration: 0.5s; 
+    -moz-transition-duration: 0.5s; 
+    -o-transition-duration: 0.5s; */
+
 }
-
-
 .arrow-dia:hover{
--webkit-transform:scale(0.9); /*Webkit: Scale up image to most of the original size*/
--moz-transform:scale(0.9); /*Mozilla scale version*/
--o-transform:scale(0.9); /*Opera scale version*/
+opacity:1; 
 }
 
 /* -- text in image -- */
-
+}
 .ggjimg { 
    position: relative; 
    width: 100%; /* for IE 6 */
