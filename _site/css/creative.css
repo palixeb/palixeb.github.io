@@ -1077,7 +1077,7 @@ body {
 
 
 .diasopra-background{
-    background-image:url(../img/../img/Diaspora.png);
+    background-image:url(../img/../img/Diaspora.jpg);
         background-position: center;
         background-attachment: fixed;
         -webkit-background-size: cover;
@@ -1112,7 +1112,7 @@ body {
 }
 
 .diaspora_report {
-
+ 
     font-family:"Courier New", Courier, monospace
 
 }
@@ -1199,7 +1199,7 @@ located in `diaspora_layout` --*/
         -o-transistion: color; 
         -ms-transition: color;
         transition: color;
-     color: #d0fbe0;
+     color:  #0b788e;
    
 }
 
@@ -1284,7 +1284,7 @@ located in `diaspora_layout` --*/
         -o-transistion: color; 
         -ms-transition: color;
         transition: color;
-     color:  #669999;
+     color:  #813456; 
    
 }
 
@@ -1305,7 +1305,7 @@ located in `diaspora_layout` --*/
         -o-transistion: color; 
         -ms-transition: color;
         transition: color;
-     color:  #ff99bb;
+     color:  #669999;
    
 }
 
@@ -1539,6 +1539,29 @@ located in `diaspora_layout` --*/
      color:#813456;
 }
 
+/* heading colors */
+
+.heading-dia {
+     -webkit-transition: color 7s ease-out;
+        -moz-transition: color 7s ease-out;
+        -o-transistion: color 7s ease-out;
+        -ms-transition: color 7s ease-out;
+        transition: color 7s ease-out;
+
+        color:white;
+}
+
+.heading-dia span:hover {
+
+    /* changes color instantantly with out these transitons it takes 7s to ease-in */
+        -moz-transition: color; /* instant color change */
+        -o-transistion: color; 
+        -ms-transition: color;
+        transition: color;
+     color:#813456;
+}
+
+
 /* -- horizontal scroll --*/
 
 
@@ -1667,7 +1690,7 @@ footer-distributed. {
 /* -- tesseract -- */
 
 .tesseract{
-    max-width: 5%;
+    max-width: 10%;
     height: auto;
 
 }
@@ -1691,6 +1714,7 @@ footer-distributed. {
 -moz-transform:scale(0.9); /*Mozilla scale version*/
 -o-transform:scale(0.9); /*Opera scale version*/
 }
+
 /* -- text in image -- */
 
 .ggjimg { 
