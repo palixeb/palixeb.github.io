@@ -788,6 +788,7 @@ html, body, .container-table {
 .vertical-center-row {
     display: table-cell;
     vertical-align: middle;
+    horizontal-align
 }
 
 .section-heading {
@@ -1075,6 +1076,10 @@ body {
 
 /*-- Diasopra Page --*/
 
+#main{
+    overflow: hidden;
+}
+
 
 .diasopra-background{
     background-image:url(../img/Diaspora.jpg);
@@ -1120,7 +1125,7 @@ body {
 
 /* --- test(number) control the hover color changes with the corresponding Jquery code 
 located in `diaspora_layout` --*/
-.test1 {
+.effect1 {
     opacity:1;
     -webkit-transition: opacity 7s ease-out;
         -moz-transition: opacity 7s ease-out;
@@ -1131,7 +1136,7 @@ located in `diaspora_layout` --*/
         color:white;
 }
 
-.test1 span:hover {
+.effect1 span:hover {
 
     /* changes color instantantly with out these transitons it takes 7s to ease-in */
         -moz-transition: color; /* instant color change */
@@ -1142,7 +1147,7 @@ located in `diaspora_layout` --*/
    
 }
 
-.test2 {
+.effect2 {
     -webkit-transition: color 7s ease-out;
         -moz-transition: color 7s ease-out;
         -o-transistion: color 7s ease-out;
@@ -1152,7 +1157,7 @@ located in `diaspora_layout` --*/
         color:white;
 }
 
-.test2 span:hover {
+.effect2 span:hover {
 
     /* changes color instantantly with out these transitons it takes 7s to ease-in */
         -moz-transition: color; /* instant color change */
@@ -1163,7 +1168,7 @@ located in `diaspora_layout` --*/
    
 }
 
-.test9 {
+.effect3 {
     -webkit-transition: color 7s ease-out;
         -moz-transition: color 7s ease-out;
         -o-transistion: color 7s ease-out;
@@ -1173,7 +1178,7 @@ located in `diaspora_layout` --*/
         color:white;
 }
 
-.test9 span:hover {
+.effect3 span:hover {
 
     /* changes color instantantly with out these transitons it takes 7s to ease-in */
         -moz-transition: color; /* instant color change */
@@ -1247,6 +1252,71 @@ located in `diaspora_layout` --*/
 
 }
 
+.twilight {
+    -webkit-transition: color 7s ease-out;
+        -moz-transition: color 7s ease-out;
+        -o-transistion: color 7s ease-out;
+        -ms-transition: color 7s ease-out;
+        transition: color 7s ease-out;
+
+        color:white;
+}
+
+.twilight span:hover {
+
+    /* changes color instantantly with out these transitons it takes 7s to ease-in */
+        -moz-transition: color; /* instant color change */
+        -o-transistion: color; 
+        -ms-transition: color;
+        transition: color;
+     color:   yellow;
+
+}
+
+
+.vertigo {
+    -webkit-transition: color 7s ease-out;
+        -moz-transition: color 7s ease-out;
+        -o-transistion: color 7s ease-out;
+        -ms-transition: color 7s ease-out;
+        transition: color 7s ease-out;
+
+        color:white;
+}
+
+.vertigo span:hover {
+
+    /* changes color instantantly with out these transitons it takes 7s to ease-in */
+        -moz-transition: color; /* instant color change */
+        -o-transistion: color; 
+        -ms-transition: color;
+        transition: color;
+     color:   green;
+
+}
+
+.gaea {
+    -webkit-transition: color 7s ease-out;
+        -moz-transition: color 7s ease-out;
+        -o-transistion: color 7s ease-out;
+        -ms-transition: color 7s ease-out;
+        transition: color 7s ease-out;
+
+        color:white;
+}
+
+.gaea span:hover {
+
+    /* changes color instantantly with out these transitons it takes 7s to ease-in */
+        -moz-transition: color; /* instant color change */
+        -o-transistion: color; 
+        -ms-transition: color;
+        transition: color;
+     color:   #6799DE;
+
+}
+
+
 /* heading colors */
 
 .heading-dia {
@@ -1270,6 +1340,8 @@ located in `diaspora_layout` --*/
 }
 
 
+
+
 /* -- horizontal scroll --*/
 
 
@@ -1277,6 +1349,7 @@ html, body {
     width: 100%;
     height: 100%;
     overflow: static;
+
 }
 
 
@@ -1291,8 +1364,9 @@ div.horizontal {
 .table {
     display: table;
     table-layout: fixed;
-    width: 100%;
+    width: 1000px;
     height: 100%;
+    vertical-align: top;
 }
 
 .table > section {
@@ -1321,6 +1395,7 @@ div.horizontal {
     left: 0pt;
     text-decoration: none;
     color: white;
+    
 
 }
 
@@ -1403,16 +1478,24 @@ footer-distributed. {
 }
 
 .tesseract2{
-    -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
-    -webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
-    box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+   
     opacity: .3;
-    max-width: 100%
+    max-width: 100%;
     max-height: auto;
+    -moz-border-radius: 40%;
+    -webkit-border-radius: 40%;
+    border-radius: 40%;
+     -webkit-transition: all 0.5s ease; 
+    -moz-transition: all 0.5s ease; 
+    -o-transition: all 0.5s ease; 
 }
 
 .tesseract2:hover{
 opacity:1; 
+   
+     -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
 }
 
 /* -- arrow -- */
@@ -1421,12 +1504,10 @@ opacity:1;
     opacity: .3;
     max-width: 100%;
     max-height: auto;
-    /*
-     -webkit-transform:scale(0.6); 
-    -moz-transform:scale(0.6); /*Mozilla scale version
-    -webkit-transition-duration: 0.5s; 
-    -moz-transition-duration: 0.5s; 
-    -o-transition-duration: 0.5s; */
+    
+    -webkit-transition: all 0.5s ease; 
+    -moz-transition: all 0.5s ease; 
+    -o-transition: all 0.5s ease; 
 
 }
 .arrow-dia:hover{
@@ -1463,7 +1544,149 @@ opacity:1;
    padding: 10px; 
 }
 
-/* Scrolling */
+/* tesseract */
+
+/*
+#tess_wrapper{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background: rgba(12, 5, 5, 0.82);
+    height: 100%;
+}
+*/
+
+.wrap {
+    padding-left: 40%;
+    padding-top: 100px;
+    padding-bottom: 500px;
+    -webkit-perspective: 800px;
+    -webkit-perspective-origin: 50% 90px;
+    -moz-perspective: 800px;
+    -moz-perspective-origin: 50% 90px;
+    perspective: 800px;
+    perspective-origin: 50% 90px;
+
+}
+
+.cube {
+
+    position: relative;
+    width: 200px;
+    transform-style: preserve-3d;
+    -webkit-transform-style: -webkit-preserve-3d;
+    -moz-transform-style:  -moz-preserve-3d;
+}
+
+.cube div {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    opacity: .3;
+}
 
 
+.test1 {
+    background-image: url(../img/dia_500px.png);
+    background-size: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
 
+}
+
+.center1{
+    background-image: url(../img/hypercube2.gif);
+}
+
+.center2 {
+    background-image: url(../img/hypercube2.gif);
+    -webkit-transform: -webkit-translateZ(0px) -webkit-rotateY(90deg);
+    -moz-transform: -moz-translateZ(0px) -moz-rotateY(90deg);
+    transform: translateZ(0px) rotateY(90deg);
+
+}
+
+.back {
+    -webkit-transform: -webkit-translateZ(-100px) -webkit-rotateY(180deg);
+    -moz-transform: -moz-translateZ(-100px) -moz-rotateY(180deg);
+    transform: translateZ(-100px) rotateY(180deg);
+    background-image: url(../img/hypercube2.gif);
+    opacity: .3;
+}
+
+.right {
+    -webkit-transform: -webkit-rotateY(-270deg) -webkit-translateX(100px);
+    -moz-transform: -moz-rotateY(-270deg) -moz-translateX(100px);
+    transform: rotateY(-270deg) translateX(100px);
+    -webkit-transform-origin: top right;
+    -moz-transform-origin: top right;
+    transform-origin: top right;
+    background-image: url(../img/hypercube2.gif);
+    opacity: .3;
+}
+
+.left {
+    -webkit-transform: -webkit-rotateY(270deg) -webkit-translateX(-100px);
+    -moz-transform: -moz-rotateY(270deg) -moz-translateX(-100px);
+    transform: rotateY(270deg) translateX(-100px);
+    -webkit-transform-origin: center left;
+    -web-transform-origin: center left;
+    transform-origin: center left;
+    background-image: url(../img/hypercube2.gif);
+    opacity: .3;
+}
+
+.top {
+    -webkit-transform: -webkit-rotateX(-90deg) -webkit-translateY(100px);
+    -moz-transform: -moz-rotateX(-90deg) -moz-translateY(100px);
+    transform: rotateX(-90deg) translateY(100px);
+    -webkit-transform-origin: bottom center;
+    -moz-transform-origin: bottom center; 
+    transform-origin: bottom center;
+    background-image: url(../img/hypercube2.gif);
+    opacity: .3;
+}
+
+.bottom {
+    -webkit-transform: -webkit-rotateX(90deg) -webkit-translateY(100px);
+    -moz-transform: -moz-rotateX(90deg) -moz-translateY(100px);
+    transform: rotateX(90deg) translateY(100px);
+    -webkit-transform-origin: bottom center;
+    -moz-transform-origin: bottom center;
+    transform-origin: bottomcenter;
+    background-image: url(../img/hypercube2.gif);
+    opacity: .3;
+}
+
+.front {
+    -webkit-transform: -webkit-translateZ(100px);
+    -moz-transform: -moz-translateZ(100px);
+    transform: translateZ(100px);
+    background-image: url(../img/hypercube2.gif);
+    opacity: .3;
+}
+
+.front:hover, .back:hover, .top:hover, .bottom:hover, 
+.left:hover, .right:hover, .center1:hover, .center2:hover{
+    opacity: 1;
+    transition: all 2s;
+}
+
+@keyframes spin {
+    from {transform: rotateY(0);}
+    to { transform: rotateY(360deg);}
+}
+
+.cube {
+    animation: spin 20s infinite linear;
+     -webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    transition: all 3s;
+}
+
+.cube:hover {
+    animation: spin 0s infinite linear;
+    
+}
