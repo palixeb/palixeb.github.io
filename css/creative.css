@@ -1563,7 +1563,7 @@ body {
 
 #timer{
     display:inline-block;
-    padding:3px 5px;
+    padding:6px 10px;
     border:none;
     font-family:tahoma;
     color:#813456;
@@ -1574,9 +1574,9 @@ body {
 /* css for css cube */
 
 .wrap {
-    padding-left: 40%;
-    padding-top: 5%;
-    padding-bottom: 25%;
+    padding-left: 43%;
+    padding-top: 20px;
+    padding-bottom: 27%;
     -webkit-perspective: 800px;
     -webkit-perspective-origin: 50% 90px;
     -moz-perspective: 800px;
