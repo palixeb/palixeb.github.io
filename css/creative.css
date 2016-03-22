@@ -1703,14 +1703,14 @@ body {
 }
 
 .cube {
-    animation: spin 30s infinite linear;
+    animation: spin 1s infinite linear;
      -webkit-transition: all 3s;
     -moz-transition: all 3s;
     transition: all 3s;s
 }
 
 .cube:hover {
-    animation: spin 1s infinite linear;
+    animation: spin 30s infinite linear;
     transition: all 1s;
 
     
