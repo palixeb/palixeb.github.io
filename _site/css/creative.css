@@ -1694,12 +1694,7 @@ body {
     transform: translateZ(100px);
     background-image: url(../img/hypercube2.gif);
     opacity: .3;
-}
 
-.front:hover, .back:hover, .top:hover, .bottom:hover, 
-.left:hover, .right:hover, .center1:hover, .center2:hover{
-    opacity: 0;
-    transition: all 2s;
 }
 
 @keyframes spin {
