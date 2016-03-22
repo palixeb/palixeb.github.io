@@ -80,29 +80,35 @@
          <section >
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2" style="padding-top:0px; ppadding-bottom: 50px; text-align:justified">
-          <h1 class= "heading-dia">Diaspora</h1>
-          <hr style ="max-width: 70%; border-color: #fff; border-width: 1px;">
+          <img src="../img/dia_grafi.png" class="arrow-dia">
+          <hr style ="max-width: 70%; border-color: grey; border-width: 1px;">
           
-          
-			<div class ="wrap">
-				<div class ="cube">
+          <audio id ="music">
+          	<source src="../sound/twilightforweb.mp3">
+          	<source src="../sound/twilightforweb.ogg">
+          </audio>
+			<div class ="wrap" >
+				<div class ="cube" onmouseover="document.getElementById('music').play()" onmouseout="document.getElementById('music').pause()">
 					<div class ="front"></div>
 					<div class ="back"></div>
 					<div class ="top"></div>
 					<div class ="bottom"></div>
 					<div class ="left"></div>
 					<div class ="right"></div>
-					<div class = "center1"></div>
-					<div class = "center2"></div>
+					<div class ="center1"></div>
+					<div class ="center2"></div>
 					<div class ="test1"></div>
 					</div>
-				</div>
+				</div>	
+				<div id="timer">a</div>
 			</div>
 		</div>
 	</div>
  </div>
              
 </section>
+
+ onmouseover="document.getElementById('mysound').play()" onmouseout="document.getElementById('mysound').pause()">
          <!--
         
         <section id="sec1" style="width: 1005px; height: 50px;">
@@ -531,8 +537,6 @@
 
 
 
-
-    
   </div>
 
   </body>
@@ -575,46 +579,9 @@
 
    <!-- sidescroll -->
 
-<script>
-       $(window).load(function() {
-    var vWidth = $(window).width();
-    var vHeight = $(window).height();
-    $('.table > section').css('width', vWidth).css('height', vHeight);
-});
+<script src="../js/sidescroll.js"></script>
 
-$(window).resize(function() {
-    var vWidth = $(window).width();
-    var vHeight = $(window).height();
-    $('.table > section').css('width', vWidth).css('height', vHeight);
-});
-    </script>
-
-
-<script>
-$(document).ready(function() {
-    
-    /* Every time the window is scrolled ... */
-    $(window).scroll( function(){
-    
-        /* Check the location of each desired element */
-        $('.hideme').each( function(i){
-            
-            var bottom_of_object = $(this).offset().top + $(this).outerHeight();
-            var bottom_of_window = $(window).scrollTop() + $(window).height();
-            
-            /* If the object is completely visible in the window, fade it it */
-            if( bottom_of_window > bottom_of_object ){
-                
-                $(this).animate({'opacity':'1'},500);
-                    
-            }
-            
-        }); 
-    
-    });
-    
-});
-</script>
-
+  <!-- countdown timer -->
+<script src="../js/countdowntimer.js"></script>
 
 </html>
