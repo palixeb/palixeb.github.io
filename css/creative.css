@@ -1082,6 +1082,12 @@ body {
 
 
 .diasopra-background{
+    /* countdown page */
+
+    background-color: black;/*
+
+    real page
+
     background-image:url(../img/Diaspora.jpg);
         background-position: center;
         background-attachment: fixed;
@@ -1090,13 +1096,19 @@ body {
         background-size: cover;
         -o-background-size: cover;
         height: auto;
-        padding: 0;
+        padding: 0; */
 
 
 }
 
 @media(max-width:586px) {
     .diasopra-background{
+        /* countdown page */
+
+        background-color: black;/*
+        
+        real page
+
         background-image:url(../img/Diaspora.jpg);
         background-position: center;
         background-attachment: cover;
@@ -1104,7 +1116,7 @@ body {
         -moz-background-size: cover;
         background-size: cover;
         -o-background-size: cover;
-        padding-top: 0;
+        padding-top: 0; */
 
 }
 
