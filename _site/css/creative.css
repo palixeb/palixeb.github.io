@@ -1584,19 +1584,18 @@ body {
 
 /* js countdown timer  */
 
-/*
 #timer{
     display:inline-block;
-    padding:6px 10px;
+    padding-top:20px;
     border:none;
     font-family:tahoma;
     color:#813456;
     font-size:40px;
     opacity: .7;
 }
-*/
+
 /* css for css cube */
-/*
+
 .wrap {
     padding-left: 40%;
     padding-top: 20px;
@@ -1727,4 +1726,3 @@ body {
 
     
 }
-*/
