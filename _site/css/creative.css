@@ -1083,15 +1083,15 @@ body {
 
 .diasopra-background{
 
-    /* background-color: black*/
+      background-color: black;
 
-    background-image:url(../img/Diaspora.jpg);
+       /*background-image:url(../img/Diaspora.jpg);
         background-position: center;
         background-attachment: fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
-        -o-background-size: cover;
+        -o-background-size: cover;*/
         height: auto;
         padding: 0; 
 
@@ -1101,15 +1101,16 @@ body {
 @media(max-width:586px) {
     .diasopra-background{
 
-        /* background-color: black;*/
+         background-color: black;
 
-        background-image:url(../img/Diaspora.jpg);
+       /* background image:url(../img/Diaspora.jpg);
         background-position: center;
         background-attachment: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
-        -o-background-size: cover;
+        -o-background-size: cover;*/
+        height: auto;
         padding-top: 0; 
 
 }
@@ -1589,7 +1590,7 @@ body {
     display:inline-block;
     padding-top:20px;
     border:none;
-    font-family:tahoma;
+    font-family:font-family:"Courier New", Courier, monospace;
     color:#813456;
     font-size:40px;
     opacity: .7;
