@@ -1627,7 +1627,7 @@ body {
 
 @media only screen and (max-width:586px){
 .wrap {
-    padding-left: 30%;
+    padding-left: 20%;
     padding-top: 20px;
     padding-bottom: 200px;
     -webkit-perspective: 800px;
