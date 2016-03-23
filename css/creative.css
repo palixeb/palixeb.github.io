@@ -1607,7 +1607,7 @@ body {
     color:#813456;
     font-size:20px;
     opacity: .7;
-}
+    }
 }
 /* css for css cube */
 
@@ -1622,14 +1622,31 @@ body {
     perspective: 800px;
     perspective-origin: 50% 90px;
 
+
 }
 
+@media only screen and (max-width:586px){
+.wrap {
+    padding-left: 30%;
+    padding-top: 20px;
+    padding-bottom: 200px;
+    -webkit-perspective: 800px;
+    -webkit-perspective-origin: 50% 90px;
+    -moz-perspective: 800px;
+    -moz-perspective-origin: 50% 90px;
+    perspective: 800px;
+    perspective-origin: 50% 90px;
+
+
+    }
+}
 .cube {
     position: relative;
     width: 200px;
     transform-style: preserve-3d;
     -webkit-transform-style: -webkit-preserve-3d;
     -moz-transform-style:  -moz-preserve-3d;
+
 }
 
 .cube div {
