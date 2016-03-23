@@ -1585,6 +1585,7 @@ body {
 /* js countdown timer  */
 
 #timer{
+
     display:inline-block;
     padding-top:20px;
     border:none;
