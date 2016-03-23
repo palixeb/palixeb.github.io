@@ -1596,6 +1596,19 @@ body {
     opacity: .7;
 }
 
+
+@media only screen and (max-width:586px){
+    #timer{
+
+    display:inline-block;
+    padding-top:20px;
+    border:none;
+    font-family:font-family:"Courier New", Courier, monospace;
+    color:#813456;
+    font-size:20px;
+    opacity: .7;
+}
+}
 /* css for css cube */
 
 .wrap {
