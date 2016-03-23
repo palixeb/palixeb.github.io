@@ -1625,6 +1625,28 @@ body {
 
 }
 
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (min-width: 1300px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (min-width: 1300px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (min-width: 1300px),
+only screen and (        min-device-pixel-ratio: 2)      and (min-width: 1300px),
+only screen and (                min-resolution: 192dpi) and (min-width: 1300px),
+only screen and (                min-resolution: 2dppx)  and (min-width: 1300px) {
+
+.wrap {
+    padding-left: 45%;
+    padding-top: 20px;
+    padding-bottom: 200px;
+    -webkit-perspective: 800px;
+    -webkit-perspective-origin: 50% 90px;
+    -moz-perspective: 800px;
+    -moz-perspective-origin: 50% 90px;
+    perspective: 800px;
+    perspective-origin: 50% 90px;
+
+
+    }
+}
 @media only screen and (max-width:586px){
 .wrap {
     padding-left: 20%;
