@@ -1082,11 +1082,8 @@ body {
 
 
 .diasopra-background{
-    /* countdown page */
 
-    background-color: black;/*
-
-    real page
+    /* background-color: black*/
 
     background-image:url(../img/Diaspora.jpg);
         background-position: center;
@@ -1096,18 +1093,15 @@ body {
         background-size: cover;
         -o-background-size: cover;
         height: auto;
-        padding: 0; */
+        padding: 0; 
 
 
 }
 
 @media(max-width:586px) {
     .diasopra-background{
-        /* countdown page */
 
-        background-color: black;/*
-        
-        real page
+        /* background-color: black;*/
 
         background-image:url(../img/Diaspora.jpg);
         background-position: center;
@@ -1116,7 +1110,7 @@ body {
         -moz-background-size: cover;
         background-size: cover;
         -o-background-size: cover;
-        padding-top: 0; */
+        padding-top: 0; 
 
 }
 
@@ -1393,8 +1387,28 @@ div.horizontal {
 
 /* -- diasporapage footer --*/
 
-.footer_dia {
 
+
+.footer_dia {
+    text-align: left;
+    height:30px; 
+    width: 100%; 
+    opacity: .4;
+    background-color: #eeeeee;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    position: fixed;
+    bottom: 0pt;
+    left: 0pt;
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+.footer_dia {
+    text-align: center;
     height:30px; 
     width: 100%; 
     opacity: .4;
@@ -1429,29 +1443,33 @@ div.horizontal {
     opacity: 1;
 }
 
-.footer-left p{
+.footer-center p{
+    color:  white;
+    font-size: 14px;
+    margin: 0;
+    text-align: center;
+}
+@media only screen and (max-width:586px){
+
+    .footer-center p{
     color:  white;
     font-size: 14px;
     margin: 0;
     text-align: left;
+
+    }
 }
 
-.footer-copyright {
-    color: black;
-    font-size: 14px;;
-    margin: 0;
-    text-align: left;
-
-}
+@media only screen and (max-width:586px){
 
 .footer_contents_dia {
 
         height:24px; 
-        width: 1000px; 
+        width: auto; 
         margin:auto;
 
     }
-
+}
     .box {
     height: 187px;
     width: 187px;
@@ -1462,14 +1480,6 @@ div.horizontal {
     color: white;
 }
 /*  fade in on mouse scroll */
-
-.demo {
-
-}
-
-footer-distributed. {
-
-}
 
 .hideme
 {
@@ -1569,10 +1579,12 @@ body {
     height: 100%;
 }
 */
-/* -- ALBUM Countdown Page -- */
+
+/* ------- ALBUM Countdown Page ------ */
 
 /* js countdown timer  */
 
+/*
 #timer{
     display:inline-block;
     padding:6px 10px;
@@ -1582,9 +1594,9 @@ body {
     font-size:40px;
     opacity: .7;
 }
-
+*/
 /* css for css cube */
-
+/*
 .wrap {
     padding-left: 40%;
     padding-top: 20px;
@@ -1715,3 +1727,4 @@ body {
 
     
 }
+*/
