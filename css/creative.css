@@ -1601,7 +1601,7 @@ body {
 .wrap {
     padding-left: 40%;
     padding-top: 20px;
-    padding-bottom: 27%;
+    padding-bottom: 200px;
     -webkit-perspective: 800px;
     -webkit-perspective-origin: 50% 90px;
     -moz-perspective: 800px;
