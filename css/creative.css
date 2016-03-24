@@ -1083,27 +1083,21 @@ body {
 
 .diasopra-background{
 
-      background-color: black;
-
-       /*background-image:url(../img/Diaspora.jpg);
+       background-image:url(../img/Diaspora.jpg);
         background-position: center;
         background-attachment: fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
-        -o-background-size: cover;*/
+        -o-background-size: cover;
         height: auto;
         padding: 0; 
-
-
 }
 
 @media(max-width:586px) {
     .diasopra-background{
 
-         background-color: black;
-
-       /* background image:url(../img/Diaspora.jpg);
+       background image:url(../img/Diaspora.jpg);
         background-position: center;
         background-attachment: cover;
         -webkit-background-size: cover;
@@ -1584,7 +1578,25 @@ body {
 /* ------- ALBUM Countdown Page ------ */
 
 /* js countdown timer  */
+.diasopra-background{
 
+      background-color: black;
+        height: auto;
+        padding: 0; 
+
+
+}
+
+@media(max-width:586px) {
+    .diasopra-background{
+
+         background-color: black;
+        height: auto;
+        padding-top: 0; 
+
+    }
+
+}
 #timer{
 
     display:inline-block;
