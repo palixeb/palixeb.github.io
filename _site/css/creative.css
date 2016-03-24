@@ -1578,7 +1578,7 @@ body {
 /* ------- ALBUM Countdown Page ------ */
 
 /* js countdown timer  */
-.diasopra-background{
+.countdown_background{
 
       background-color: black;
         height: auto;
@@ -1588,7 +1588,7 @@ body {
 }
 
 @media(max-width:586px) {
-    .diasopra-background{
+    .countdown_background{
 
          background-color: black;
         height: auto;
