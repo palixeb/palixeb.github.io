@@ -1083,7 +1083,7 @@ body {
 
 .diasopra-background{
 
-       background-image:url(../img/Diaspora.jpg);
+       background-image:url(../img/Diasporabg.jpg);
         background-position: center;
         background-attachment: fixed;
         -webkit-background-size: cover;
@@ -1097,7 +1097,7 @@ body {
 @media(max-width:586px) {
     .diasopra-background{
 
-       background image:url(../img/Diaspora.jpg);
+       background image:url(../img/Diasporabg.jpg);
         background-position: center;
         background-attachment: cover;
         -webkit-background-size: cover;
