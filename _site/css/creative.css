@@ -1119,11 +1119,24 @@ body {
 
 .diaspora_report {
  
-    font-family:"Courier New", Courier, monospace
+    font-family:"Courier New", Courier, monospace;
+    
 
 }
 
+.diaspora_report a:link {
+    color: #ccb3ff;
+    text-decoration: none;
+}
 
+.diaspora_report a:visited {
+    color: #ccb3ff;
+    text-decoration: underline;
+}
+
+.diaspora_report a:hover {
+    text-decoration: underline;
+}
 /* --- test(number) control the hover color changes with the corresponding Jquery code 
 located in `diaspora_layout` --*/
 .effect1 {
@@ -1228,7 +1241,7 @@ located in `diaspora_layout` --*/
         -o-transistion: color; 
         -ms-transition: color;
         transition: color;
-     color:  #b3ff99;
+     color:  #FFA500;
    
 }
 
@@ -1316,6 +1329,33 @@ located in `diaspora_layout` --*/
      color:   #6799DE;
 
 }
+
+.therifts {
+    -webkit-transition: color 7s ease-out;
+        -moz-transition: color 7s ease-out;
+        -o-transistion: color 7s ease-out;
+        -ms-transition: color 7s ease-out;
+        transition: color 7s ease-out;
+
+        color:white;
+}
+
+.therifts span:hover {
+
+    /* changes color instantantly with out these transitons it takes 7s to ease-in */
+        -moz-transition: color; /* instant color change */
+        -o-transistion: color; 
+        -ms-transition: color;
+        transition: color;
+     color:   #ccb3ff;
+
+}
+
+.therifts a:visited{
+    text-decoration: white;
+}
+
+
 
 
 /* heading colors */

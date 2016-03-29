@@ -278,3 +278,37 @@ $(function() {
   var text = document.querySelector('.gaea');
   text.innerHTML = spammify(text).innerHTML;
 });
+
+$(function() {
+  function spammify(node) {
+    var children = node.childNodes;
+    var replaced = node.cloneNode();
+    replaced.innerHTML = "";
+    
+    for (var i = 0; i < children.length; i++) {
+      var child = children[i];
+      
+     
+      if (child.nodeType === 1) {
+        replaced.appendChild(spammify(child));
+      }
+    
+      else if (child.nodeType === 3) {
+        var letters = child.textContent;
+        
+        for (var j = 0; j < letters.length; j++) {
+          var span = document.createElement("SPAN");
+          var text = document.createTextNode(letters[j]);
+          span.className = "therifts";
+          span.appendChild(text);
+          replaced.appendChild(span);
+        }
+      }
+    }
+    
+    return replaced;
+  }
+  
+  var text = document.querySelector('.therifts');
+  text.innerHTML = spammify(text).innerHTML;
+});
