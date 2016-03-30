@@ -1,4 +1,4 @@
-var end = new Date('31 Mar 2016 12:00:00');
+var end = new Date('30 Mar 2016');
 
 var _second = 1000;
 var _minute = _second * 60;
@@ -13,7 +13,7 @@ function showRemaining()
     if (distance < 0 ) {
        // handle expiry here..
        clearInterval( timer ); // stop the timer from continuing ..
-       //alert('Expired'); // alert a message that the timer has expired..
+       alert('Click the Artifact'); // alert a message that the timer has expired..
     }
     var days = Math.floor(distance / _day);
     var hours = Math.floor( (distance % _day ) / _hour );
