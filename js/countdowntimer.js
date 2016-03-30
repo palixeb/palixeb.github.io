@@ -13,7 +13,7 @@ function showRemaining()
     if (distance < 0 ) {
        // handle expiry here..
        clearInterval( timer ); // stop the timer from continuing ..
-       alert('Click the Artifact'); // alert a message that the timer has expired..
+       //alert('Expired'); // alert a message that the timer has expired..
     }
     var days = Math.floor(distance / _day);
     var hours = Math.floor( (distance % _day ) / _hour );
