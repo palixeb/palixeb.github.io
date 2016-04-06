@@ -1115,6 +1115,7 @@ body {
    background: rgba(48,48,48,.8);
     color: white;
     margin-bottom: 0;
+    height: 100%;
 }
 
 .diaspora_report {
@@ -1423,30 +1424,11 @@ div.horizontal {
 /* -- diasporapage footer --*/
 
 
-
-.footer_dia {
-    text-align: left;
-    height:30px; 
-    width: 100%; 
-    opacity: .4;
-    background-color: #eeeeee;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: 0% 0%;
-    position: fixed;
-    bottom: 0pt;
-    left: 0pt;
-    text-decoration: none;
-    color: white;
-    
-
-}
-
 .footer_dia {
     text-align: center;
     height:30px; 
     width: 100%; 
-    opacity: .4;
+    opacity: .7;
     background-color: #eeeeee;
     background-repeat: repeat;
     background-attachment: scroll;
