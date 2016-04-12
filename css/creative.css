@@ -533,8 +533,33 @@ blockquote h3 {
   display: inline;     
 }      
  
+.text-right a:link {
+    color: #6799DE;
+    text-decoration: none;
+}
 
+.text-right a:visited {
+    color: #6799DE;
+    text-decoration: underline;
+}
 
+.text-right a:hover {
+    text-decoration: underline;
+}
+
+.text-left a:link {
+    color: #6799DE;
+    text-decoration: none;
+}
+
+.text-left a:visited {
+    color: #6799DE;
+    text-decoration: underline;
+}
+
+.text-left a:hover {
+    text-decoration: underline;
+}
 
 /* --- footer page --- */
 
@@ -1520,8 +1545,8 @@ div.horizontal {
     opacity: .3;
     max-width: 100%;
     max-height: auto;
-    -moz-border-radius: 40%;
-    -webkit-border-radius: 40%;
+    -moz-border-radius: 48%;
+    -webkit-border-radius: 48%;
     border-radius: 40%;
      -webkit-transition: all 0.5s ease; 
     -moz-transition: all 0.5s ease; 
