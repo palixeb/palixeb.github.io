@@ -94,7 +94,9 @@ h6 {
     to { opacity: 1;}
 }
 
-
+.manny{
+    color: white;
+}
 
 
 p {
@@ -240,7 +242,7 @@ header {
     text-align: center;
     color: #FFFFFF;
     background-image: 
-        url(../img/mm_header.jpg);
+        url(../img/mm_header_bw_text.jpg);
         background-position: center;
         
         -webkit-background-size: cover;
