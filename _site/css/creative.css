@@ -8,16 +8,7 @@ html,
 body {
     width: 100%;
     height: 100%;
-    background-color: #6799DE;
-    background-image: url(../img/tower.png);
-    background-position: center;
-        background-attachment: fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-        height: auto;
-        padding: 0;
+    background-color: #000;
 
 
 }
@@ -251,7 +242,7 @@ header {
     text-align: center;
     color: #FFFFFF;
     background-image: 
-        url(../img/mm_header_bw_text.png);
+        url(../img/mm_header_bw_text.jpg);
         background-position: center;
         
         -webkit-background-size: cover;
