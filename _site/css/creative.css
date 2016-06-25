@@ -234,15 +234,14 @@ section {
         color: #6799DE;
     }
 }
-
-header {
+{
     position: relative;
     width: 100%;
     min-height: auto;
     text-align: center;
     color: #FFFFFF;
     background-image: 
-        url(../img/mm_header_bw_text.jpg);
+        url(../img/The Strata.jpg);
         background-position: center;
         
         -webkit-background-size: cover;
