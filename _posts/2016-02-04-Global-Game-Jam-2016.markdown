@@ -59,7 +59,6 @@ excerpt_separator: <!--more-->
             
 
              <div class="ggjimg" align="center">
-                <h2 class="ggjh2"><span>git pushing & making beats</span></h2>
                 <img class="img-responsive" width="320" height="250" src="img/ggjworkstation.jpg"> 
                 </div>
 
