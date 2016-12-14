@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 <div class="container" style="color:#fff">
 	<div class="row">
-		<div class="col-lg-8 ">
+		<div class="col-lg-12">
 				<h3 style="color:#ff4b33;">虎穴に入らずんば虎子を得ず</h3>
 				
 
@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
 
 				
 
-				<img class="img-responsive" src="img/deskimg.jpg" alt="desk_img1">
+				<img class="img-responsive" align="center" src="img/deskimg.jpg" alt="desk_img1">
 
 				<hr>
 

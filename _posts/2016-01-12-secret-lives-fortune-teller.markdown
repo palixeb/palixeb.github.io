@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 <meta name="description" content="Fortune Teller - by Secret Lives music review">
 
     <div class="row">
-        <div class="col-lg-8" itemscope itemtype="http://schema.org/MusicGroup">
+        <div class="col-lg-12" itemscope itemtype="http://schema.org/MusicGroup">
                 <a href="http://mannymarx.com/2016/01/12/secret-lives-fortune-teller.html"><h3 style="color:#ff4b33;">安らかに眠る</h3></a>
                 
 
@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
                 <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%b %-d, %Y" }}</p>
 
 
-                <a href="http://mannymarx.com/2016/01/12/secret-lives-fortune-teller.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0004288455_100.png" alt="Secret Lives"></a>
+                <p align="center" ><a href="http://mannymarx.com/2016/01/12/secret-lives-fortune-teller.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0004288455_100.png" alt="Secret Lives"></a></p>
 
 
 				<hr>

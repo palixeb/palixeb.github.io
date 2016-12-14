@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 <meta name="description" content="Steve Mueske music review">
 
 	<div class="row">
-		<div class="col-lg-8" itemscope itemtype="http://schema.org/MusicGroup">
+		<div class="col-lg-12" itemscope itemtype="http://schema.org/MusicGroup">
 				<a href="http://mannymarx.com/2015/11/26/SteveMueske.html"><h3 style="color:#ff4b33;">召し上がれ</h3></a>
 				
 
@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
 
 				
 
-				<a href="http://mannymarx.com/2015/11/26/SteveMueske.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0003320878_100.png" alt="Steve Mueske"></a>
+				<p align="center" ><a href="http://mannymarx.com/2015/11/26/SteveMueske.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0003320878_100.png" alt="Steve Mueske"></a></p>
 
 				<hr>
 

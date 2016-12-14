@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 <meta name="description" content="Global Game Jam 2026 - Dwango">
 
     <div class="row">
-        <div class="col-lg-8" itemscope itemtype="http://schema.org/MusicGroup">
+        <div class="col-lg-12" itemscope itemtype="http://schema.org/MusicGroup">
                 <a href="http://mannymarx.com/2016/02/04/Global-Game-Jam-2016.html"><h3 style="color:#ff4b33;">Something from Nothing</h3></a>
                 
 
@@ -24,7 +24,8 @@ excerpt_separator: <!--more-->
                 <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%b %-d, %Y" }}</p>
 
 
-                <a href="http://mannymarx.com/2016/02/04/Global-Game-Jam-2016.html"><img class="img-responsive" src="http://globalgamejam.org/sites/default/files/styles/responsive_large__wide_2x/public/field_news_story_image_video/ggjend-newsimage.png?itok=OaW3jAoP" alt="Global Game Jam"></a>
+                <p align="center" ><a href="http://mannymarx.com/2016/02/04/Global-Game-Jam-2016.html"><img class="img-responsive" src="http://globalgamejam.org/sites/default/files/styles/responsive_large__wide_2x/public/field_news_story_image_video/ggjend-newsimage.png?itok=OaW3jAoP" alt="Global Game Jam"></a>
+                </p>
 
 
 				<hr>

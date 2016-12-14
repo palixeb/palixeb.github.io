@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 <meta name="description" content="Charlotte Seeker - Games On Cassette by Spencer Riedel music review">
 
     <div class="row">
-        <div class="col-lg-8" itemscope itemtype="http://schema.org/MusicGroup">
+        <div class="col-lg-12" itemscope itemtype="http://schema.org/MusicGroup">
                 <a href="http://mannymarx.com/2015/12/26/GamesOnCassette-Spencer-Riedel.html"><h3 style="color:#ff4b33;">探求者</h3></a>
                 
 
@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
                 <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%b %-d, %Y" }}</p>
 
 
-                <a href="http://mannymarx.com/2015/12/26/GamesOnCassette-Spencer-Riedel.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0006415819_100.png" alt="Spencer Riedel"></a>
+                <p align="center" ><a href="http://mannymarx.com/2015/12/26/GamesOnCassette-Spencer-Riedel.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0006415819_100.png" alt="Spencer Riedel"></a></p>
 
 
 				<hr>
