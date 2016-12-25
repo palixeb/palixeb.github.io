@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
     <div class="row">
         <div class="col-lg-12" itemscope itemtype="http://schema.org/MusicGroup">
-                <a href="http://mannymarx.com/2016/12/13/iaspora-concept-album.html"><h3 style="color:#ff4b33;"></h3>器用貧乏</a>
+                <a href="http://mannymarx.com/2016/12/13/diaspora-concept-album.html"><h3 style="color:#ff4b33;"></h3>器用貧乏</a>
                 
 
                 <p>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
