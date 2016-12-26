@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
     <div class="row">
         <div class="col-lg-12" itemscope itemtype="http://schema.org/MusicGroup">
-                <a href="http://mannymarx.com/2016/12/22/BullaFey-Interview.html"><h3 style="color:#ff4b33;"></h3>器用貧乏</a>
+                <a href="http://mannymarx.com/2016/12/27/BullaFey-Interview.html"><h3 style="color:#ff4b33;"></h3>器用貧乏</a>
                 
 
                 <p>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
@@ -24,13 +24,15 @@ excerpt_separator: <!--more-->
                 <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%b %-d, %Y" }}</p>
 
 
-                <p align="center"><a href="http://mannymarx.com/2016/12/22/BullaFey-Interview.html"><img class="img-responsive" src="http://www.notmanyexperts.com/wp-content/uploads/2016/03/bulla-fey-alive.jpg" alt="Diaspora"></a>
+                <p align="center"><a href="http://mannymarx.com/2016/12/27/BullaFey-Interview.html"><img class="img-responsive" src="http://www.notmanyexperts.com/wp-content/uploads/2016/03/bulla-fey-alive.jpg" alt="Diaspora"></a>
                 </p>
 
 
 				<hr>
 
 				 <!-- Post Content -->
+
+                 2016 is coming to a close 
 				
                 <p> <b>Manny Marx (me):</b> I’m listening to the “wave ridin’ starter pack” as I am writing up these questions. That Final Fantasy remix of “Special” hits me right in the feels. So, for starters who is Bulla Fey, in other words, who are you guys? 
 
