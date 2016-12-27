@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
                 <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%b %-d, %Y" }}</p>
 
 
-                <p align="center"><a href="http://mannymarx.com/2016/12/27/BullaFey-Interview.html"><img class="img-responsive" src="/img/bulla-fey-alive.png" alt="Bulla Fey"></a>
+                <p align="center"><a href="http://mannymarx.com/2016/12/27/BullaFey-Interview.html"><img class="img-responsive" src="/img/bulla-fey-alive1.png" alt="Bulla Fey"></a>
                 </p>
 
 
