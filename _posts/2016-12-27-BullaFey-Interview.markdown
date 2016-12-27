@@ -88,7 +88,7 @@ excerpt_separator: <!--more-->
                 <p><b>BF:</b> <span class="effect1">Mostly the back and forth during a beat with Dominique. Then when I'm alone I'll write something from the perspective of the entity or creature that speaks for the both of us. It has her voice and her face and our pain and my words. Then I can take her vocals and start to affect them, she lays down things both of what I asked for, and what I didn't. So there are surprises.</span></p>
 
 
-                <p class="mannymarx-interview"><b>MM: </b>You guys recently released a video for “LA BRUJA”. Is there any particular reason you chose that song?</p>
+                <p class="mannymarx-interview"><b>MM: </b>You guys recently released <a href="https://www.youtube.com/watch?v=Rnf9NHTSMJw" target="blank">a video for “LA BRUJA”</a>. Is there any particular reason you chose that song?</p>
 
                 
 
@@ -98,7 +98,7 @@ excerpt_separator: <!--more-->
 
 
 
-                <p class="mannymarx-interview"><b>MM: </b>If you don’t mind, could you talk a bit about the song and symbolism with in the video? </p>
+                <p class="mannymarx-interview"><b>MM: </b>If you don’t mind, could you talk a bit about the song and symbolism with in the video?</p>
 
                 <p><b>BF:</b> <span class="effect1">We just imagined something natural, and something urban that was easy to film. With the birds behind the words I knew we needed some trees, so the park was fine. We had a nice drone shot thanks to our friend Cassidy Maldonado, in prospect park. The song is about the flow of someone on the verge of anxiety, someone who feels pressed to make a move and is convincing themselves of their power. Flanked by two powerful friends who created a sort of coven, or</span> <a href="https://en.wikipedia.org/wiki/Erinyes" target = "blank">The Erinyes / Euminides</a> <span class="effect1">from Greek myth. Also, images of ruin. I found a really old discarded photo album in an abandoned gas station that made me really sad. I knew someone was squatting in there. What brought them to that place? I needed to use it. The video is definitely about our graceful, undercurrent of hidden anxiety, born of past loss and very frequent existential wander-offs.</span></p> 
 
