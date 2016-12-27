@@ -45,7 +45,7 @@ excerpt_separator: <!--more-->
 
                  <p class="mannymarx-interview"> <b>Manny Marx:</b> So, for starters who is Bulla Fey? </p>
 
-                <p><b>Bulla Fey:</b> <span class="effect1">We are Dominique Nichelle, vox, and Adam Maria, writing and production. A couple of friends in brooklyn making our way through life. Or trying.                
+                <p><b>Bulla Fey:</b> <span class="effect1">We are Dominique Nichelle, vox, and Adam Maria, writing and production. A couple of friends in Brooklyn making our way through life. Or trying.                
                 </span></p>
 
                 <p class="mannymarx-interview">
