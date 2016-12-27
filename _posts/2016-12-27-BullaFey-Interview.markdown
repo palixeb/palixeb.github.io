@@ -111,7 +111,7 @@ excerpt_separator: <!--more-->
 
                 <p><b>BF: </b><span class="effect1">Shout outs to our friends, our supporters, our new fans, and all the people who believe in us and enjoy what we do.</span></p>
 
-                <p class="interview-asides">You can contact and get more of Bulla Fey on their website at <a href="http://www.bullafey.com" target = "blank">www.bullafey.com</a> as well as on <a href="https://www.facebook.com/bullafey/">Facebook</a> and <a href="https://open.spotify.com/album/7jibWwuzlkHc4Gh01j6POL" target = "blank">Spotify</a>. 
+                <p class="interview-asides">You can contact and get more of Bulla Fey on their website at <a href="http://www.bullafey.com" target = "blank">www.bullafey.com</a> as well as on <a href="https://www.facebook.com/bullafey/">Facebook</a> and <a href="https://open.spotify.com/album/7jibWwuzlkHc4Gh01j6POL" target = "blank">Spotify</a>. </p>
                 <br>
                 
                 <p>Peace</p>
