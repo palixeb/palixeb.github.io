@@ -122,7 +122,12 @@ excerpt_separator: <!--more-->
                 		<iframe width="300" height="400" scrolling="no" frameborder="no" src="https://w.soundCloud.com/player/?url=https%3A//api.soundCloud.com/playlists/203978684&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
               
            
-    	<div><script src="js/jquery.js"></script>
+
+        </div>
+	</div>
+</div>
+
+<script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
@@ -135,7 +140,3 @@ excerpt_separator: <!--more-->
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
     <script src="../js/colortext.js"></script>
-</div>
-        </div>
-	</div>
-</div>
