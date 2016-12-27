@@ -49,7 +49,7 @@ excerpt_separator: <!--more-->
                 </span></p>
 
                 <p class="mannymarx-interview">
-                <b>MM:</b> Does Bulla Fey have a particular meaning? If so, are you wiling to share it? (Also what is the correct way to pronounce it?)</p>
+                <b>MM:</b> Does Bulla Fey have a particular meaning? If so, are you willing to share it? (Also what is the correct way to pronounce it?)</p>
 
                 <p><b>BF: </b><span class="effect1"> Hmm, OK let's give it a try. "Bull - uh - feh" or bull-uh-fae . I know there is a proper way to do that stuff...</span> <b><a href="http://www.antimoon.com/how/pronunc-soundsipa.htm" target = "blank">(bʊl – ʌ – feɪ)</a></b><span class="effect1">... It literally means Bubble Fairies. We're named after a</span> <a href="http://i.imgur.com/ukYDQ3w.png" target = "blank">neo-pets game</a>.</p>
 
