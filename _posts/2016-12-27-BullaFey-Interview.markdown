@@ -125,9 +125,7 @@ excerpt_separator: <!--more-->
 
         </div>
 	</div>
-</div>
-
-<script src="js/jquery.js"></script>
+    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
@@ -140,3 +138,5 @@ excerpt_separator: <!--more-->
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
     <script src="../js/colortext.js"></script>
+</div>
+
