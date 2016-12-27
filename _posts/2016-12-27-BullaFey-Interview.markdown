@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
     <div class="row">
         <div class="col-lg-12" itemscope itemtype="http://schema.org/MusicGroup">
-                <a href="http://mannymarx.com/2016/12/27/BullaFey-Interview.html"><h3 style="color:#ff4b33;"></h3>器用貧乏</a>
+                <a href="http://mannymarx.com/2016/12/27/BullaFey-Interview.html"><h3 style="color:#ff4b33;">急がば回れ</h3></a>
                 
 
                 <p>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
