@@ -27,10 +27,10 @@ excerpt_separator: <!--more-->
                 <p align="center" ><a href="http://mannymarx.com/2016/01/12/secret-lives-fortune-teller.html"><img class="img-responsive" src="https://f1.bcbits.com/img/0004288455_100.png" alt="Secret Lives"></a></p>
 
 
-				<hr>
+                <hr>
 
-				 <!-- Post Content -->
-				
+                 <!-- Post Content -->
+                
                 <p> 
                     <a href="https://secretlivesny.bandcamp.com/releases" target="blank">Secret Lives' nine song album "Fortune Teller"</a> is a banger. It's not only 20 mins of non-stop solid musicianship but also filled to the brim with masterful lyricism. Rob, Duncan, and Gordon keep it so fucking real that it reminded me exactly why I went to <a href="https://en.wikipedia.org/wiki/New_York_hardcore" target="blank">hardcore shows</a> 20 years ago. Albums like this are the reason why I feel compelled to write about and share independent music. It's ordinary, albeit talented, people creating extraordinary music. Oh, and did I mention this album was just a "side project" as its members are from <a href="http://www.ironchic.net/" target="blank">Iron Chic</a> and <a href="https://www.facebook.com/capitalLIHC" target="blank">Capital</a>.    
                 </p>
@@ -41,7 +41,7 @@ excerpt_separator: <!--more-->
 
 
                 <p>
-                    The album kicks off with <a href="https://secretlivesny.bandcamp.com/track/sick-and-tired" target="blank">"Sick and tired"</a> and soon as the song starts it's undeniable that you are in for some good post-hardcore, rock, or whatever we are calling this kind of music these days (It's good music just leave it at that). Then Rob drops the first line, <i>"Hey man! What you gonna whine about today!?"</i> This pretty much sums up 2015 in a nutshell for me, with the rise of the <a href="https://en.wikipedia.org/wiki/Regressive_left" target="blank">Regressive Left</a> on one side and the Far Right with its newly crowned bigot at the helm on the other. When Rob yells, <i>"I'm so tired! I hear it everyday...every fucking day!"</i> I can't help shake my head at what we have in store as the USA gets ready to be pulled apart during the upcoming "election process". 
+                    The album kicks off with <a href="https://secretlivesny.bandcamp.com/track/sick-and-tired" target="blank">"Sick and tired"</a> and soon as the song starts it's undeniable that you are in for some good post-hardcore, rock, or whatever we are calling this kind of music these days (It's good music just leave it at that). Then Rob drops the first line, <i>"Hey man! What you gonna whine about today!?"</i> This pretty much sums up 2015 in a nutshell for me, with the rise of the <a href="https://en.wikipedia.org/wiki/Regressive_left" target="blank">Regressive Left</a> on one side and the <strike>Far Right</strike> <a href="https://en.wikipedia.org/wiki/Alt-right">Alt-Right</a>, with its newly crowned bigot at the helm, on the other. When Rob yells, <i>"I'm so tired! I hear it everyday...every fucking day!"</i> I can't help shake my head at what we have in store as the USA gets ready to be pulled apart during the upcoming "election process". 
                 </p>
 
                 <p>
@@ -62,8 +62,10 @@ excerpt_separator: <!--more-->
 
                 <p>
 
-                    Fortune Teller was my favorite album of 2015 as it's just some good <a href="https://en.wikipedia.org/wiki/Music_of_Long_Island" target="blank">Long Island hardcore music</a>. I was looking forward to what Rob, Duncan, and Gordon had in store for us next however it pains me to say that <a href="http://substreammagazine.com/2016/01/iron-chic-guitarist-rob-mcallister-dies/" target="blank">Rob passed away</a> this week on January, 10th 2016. It's a shame that the world was divested of such a talented and kind person. He was also a great friend as well as a <a href="https://deadbrokerekerds.bandcamp.com/album/the-streets-all-conspire">former bandmate</a> and I will miss him dearly but certainly never forget him. He is survived by his daughter and life partner. If you have 20 minutes give <a href="https://secretlivesny.bandcamp.com/releases" target="blank">Fortune Teller</a> a listen, you won't be disappointed and if you really like it be sure buy it. 
+                    Fortune Teller was my favorite album of 2015 as it's just some good <a href="https://en.wikipedia.org/wiki/Music_of_Long_Island" target="blank">Long Island hardcore music</a>. I was looking forward to what Rob, Duncan, and Gordon had in store for us next however it pains me to say that <a href="http://substreammagazine.com/2016/01/iron-chic-guitarist-rob-mcallister-dies/" target="blank">Rob passed away</a> this week on January, 10th 2016. It's a shame that the world was divested of such a talented and kind person. He was also a great friend as well as a <a href="https://deadbrokerekerds.bandcamp.com/album/the-streets-all-conspire">former bandmate</a> and I will miss him dearly but certainly never forget him. He is survived by his son, daughter and significant other. If you have 20 minutes give <a href="https://secretlivesny.bandcamp.com/releases" target="blank">Fortune Teller</a> a listen, you won't be disappointed and if you really like it be sure buy it. 
                    
+                   <br>
+                   Edited-12/2016
 
                 </p>
 
@@ -77,12 +79,12 @@ excerpt_separator: <!--more-->
               
                 <hr>
 
-     	
-       		
-                		<iframe style="border: 0; width: 300px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=789295500/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://secretlivesny.bandcamp.com/album/fortune-teller">Fortune Teller by Secret Lives</a></iframe>
+        
+            
+                        <iframe style="border: 0; width: 300px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=789295500/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://secretlivesny.bandcamp.com/album/fortune-teller">Fortune Teller by Secret Lives</a></iframe>
               
            
-    	
+        
         </div>
-	</div>
+    </div>
 </div>
