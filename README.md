@@ -1,6 +1,6 @@
 # Manny Marx's Music Production & Sound Design Homepage
 
-Homepage for to advertise music production and sound design services. 
+Homepage to advertise music production and sound design services. 
 
 The foundation / concept of the site was built off of the [Creative Template](http://startbootstrap.com/template-overviews/creative/) from [Start Bootstrap](http://startbootstrap.com) and then integrated into the Jekyll framework.The Contact form is from http://formspree.io/.
 
